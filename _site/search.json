@@ -1,59 +1,17 @@
 [
   {
-    "objectID": "weeks/week-1.html#prepare",
-    "href": "weeks/week-1.html#prepare",
-    "title": "Week 1",
-    "section": "Prepare",
-    "text": "Prepare\n📖 Read the syllabus\n📖 Read the support resources"
+    "objectID": "teaching-as-a-team/plan.html#assignment",
+    "href": "teaching-as-a-team/plan.html#assignment",
+    "title": "Week 2: Teaching as a Team",
+    "section": "Assignment",
+    "text": "Assignment\n\nReadings\nRead the first chapter from, Why Students Don’t Like School by Daniel T. Willingham, posted to bCourses.\nAfterwards, please post to Ed your thoughts (a paragraph or two) on the reading selection. The questions below might be helpful to spur your thinking.\nPossible questions to address: 1. Does this reading resonate with your own experience or contrast with it? In what ways? 2. What are a few critiques one would make of the arguments presented? 3. How do the ideas present inform how you might change your teaching?\nIn place of posting a new comment, you can also reply to your fellow students’ comments. Any engagement and input is welcome as long as it’s original and respectful.\n\n\nReflections\nThe topic for next class is “Teaching as a member of a team”, so in preparation, please reflect on the role you play as a (u)GSI in a paragraph for two for the question below. The second question is meant to be answered by your instructor, so please ask them for a few sentences about how they see the role of the GSI in their class.\nNote: if you know of other students in 375 that are also GSIing for the same class, coordinate your question so the instructor only has to answer once (and then send that answer around to your fellow GSIs). Also, if the instructor has spelled this out previous to you verbally or in writing, you’re welcome to transcribe that.\nIf possible, write your answer to 1 before hearing the instructor’s response in 2.\n\n1. From the GSI\nWhat do you think your role is as a GSI in the broader context of the course? What responsibilities do you have to your students? What responsibilities do you have towards your instructor?\n\n\n2. From the Instructor\nWhat do you see as the role of GSI in the broader context of the course? What responsibilities do they have to the students? What responsibilities do you have towards you?"
   },
   {
-    "objectID": "weeks/week-1.html#participate",
-    "href": "weeks/week-1.html#participate",
-    "title": "Week 1",
-    "section": "Participate",
-    "text": "Participate\n🖥️ Lab 0 -Meet+ greet\n🖥️ Lecture 1 - Welcome to STA 210"
-  },
-  {
-    "objectID": "weeks/week-1.html#practice",
-    "href": "weeks/week-1.html#practice",
-    "title": "Week 1",
-    "section": "Practice",
-    "text": "Practice\n📋 AE 0 - Movies"
-  },
-  {
-    "objectID": "weeks/week-1.html#perform",
-    "href": "weeks/week-1.html#perform",
-    "title": "Week 1",
-    "section": "Perform",
-    "text": "Perform\n⌨️ Lab 0 - Meet + greet\n\n\nBack to course schedule ⏎"
-  },
-  {
-    "objectID": "weeks/week-2.html#prepare",
-    "href": "weeks/week-2.html#prepare",
-    "title": "Week 2",
-    "section": "Prepare",
-    "text": "Prepare\n📖 Read Introduction to Modern Statistics, Chp 7: Linear regression with a single predictor"
-  },
-  {
-    "objectID": "weeks/week-2.html#participate",
-    "href": "weeks/week-2.html#participate",
-    "title": "Week 2",
-    "section": "Participate",
-    "text": "Participate\n🖥️ Lab 1 - Meet the toolkit\n🖥️ Lecture 2 - Simple linear regression\n🖥️ Lecture 3 - Model fitting in R with tidymodels"
-  },
-  {
-    "objectID": "weeks/week-2.html#practice",
-    "href": "weeks/week-2.html#practice",
-    "title": "Week 2",
-    "section": "Practice",
-    "text": "Practice\n📋 Application Exercise 1 - Bike rentals in DC (Post-class note: complete only Part 1 - Daily counts and temperature)"
-  },
-  {
-    "objectID": "weeks/week-2.html#perform",
-    "href": "weeks/week-2.html#perform",
-    "title": "Week 2",
-    "section": "Perform",
-    "text": "Perform\n⌨️ Lab 1 - Meet the toolkit\n\n\nBack to course schedule ⏎"
+    "objectID": "teaching-as-a-team/plan.html#class-session",
+    "href": "teaching-as-a-team/plan.html#class-session",
+    "title": "Week 2: Teaching as a Team",
+    "section": "Class Session",
+    "text": "Class Session\nThe slides used in the class session are linked below.\n🖥Teaching as a Team"
   },
   {
     "objectID": "index.html",
@@ -61,6 +19,27 @@
     "title": "STAT 375: Teaching Statistics and Data Science",
     "section": "",
     "text": "The primary goal of this course is to help first-time GSI appointments become more confident, efficient, and effective teachers. It aims to build in students a curiosity to persistently question their practice: Why am I teaching this particular topic? What is the most important thing that my students learn? How do I know if my students have learned it? Why have I chosen to teach it in the this manner? Why are certain students engaged and succeeding and others not?\nThere are three integral elements to this course. In person class meetings are the core of the experience, when you will encounter new ideas and discuss them in the context of your current teaching. Weekly assignments are an opportunity to reflect on the ideas discussed in class as well as readings. Teaching observations will occur twice during the semester and give you the opportunity to observe a different classroom environment than your own and receive feedback about your own teaching."
+  },
+  {
+    "objectID": "welcome-to-class/slides.html#announcements",
+    "href": "welcome-to-class/slides.html#announcements",
+    "title": "Welcome to Class",
+    "section": "Announcements",
+    "text": "Announcements\n\nNew on the course website: FAQ\nNew communication tool: Slack\n\nFind the invite link in your inbox / on Sakai announcements\nUse #general for questions, #random for random 🤪\nUse code formatting for for questions involving code (see Course FAQ for a demo video)\n\nMy office hours: All virtual for now, hope to move 1 hour / week to in person later in the semester"
+  },
+  {
+    "objectID": "welcome-to-class/slides.html#hybrid-teaching",
+    "href": "welcome-to-class/slides.html#hybrid-teaching",
+    "title": "Welcome to Class",
+    "section": "Hybrid teaching",
+    "text": "Hybrid teaching\n\nLectures:\n\nIn person as long as university says so (and I don’t have COVID)\nIf you can’t be in class (and you’re well enough to follow along), watch live (or the recording later) on Panopto\nWatching live and have questions? Post on Slack!\nIn class and see someone ask a question on Slack? Please raise it to me!\n\nLabs:\n\nNot live streamed / recorded\nLab 2 (next Monday) - individual\nLab 3 onwards - in teams, if teammates are in isolation, set up team Zoom calls"
+  },
+  {
+    "objectID": "welcome-to-class/plan.html#class-session",
+    "href": "welcome-to-class/plan.html#class-session",
+    "title": "Week 1: Welcome to Class",
+    "section": "Class Session",
+    "text": "Class Session\nThe slides used in the class session are linked below.\n🖥Welcome to Class"
   },
   {
     "objectID": "syllabus.html#course-info",

@@ -1,19 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://stat375.github.io/course-materials/weeks/week-1.html</loc>
-    <lastmod>2022-01-30T19:58:37.632Z</lastmod>
+    <loc>https://stat375.github.io/course-materials/teaching-as-a-team/slides.html</loc>
+    <lastmod>2022-01-30T21:35:15.033Z</lastmod>
   </url>
   <url>
-    <loc>https://stat375.github.io/course-materials/weeks/week-2.html</loc>
-    <lastmod>2022-01-30T19:58:37.844Z</lastmod>
+    <loc>https://stat375.github.io/course-materials/teaching-as-a-team/plan.html</loc>
+    <lastmod>2022-01-30T21:35:15.399Z</lastmod>
   </url>
   <url>
     <loc>https://stat375.github.io/course-materials/index.html</loc>
-    <lastmod>2022-01-30T19:58:38.047Z</lastmod>
+    <lastmod>2022-01-30T21:35:15.613Z</lastmod>
+  </url>
+  <url>
+    <loc>https://stat375.github.io/course-materials/welcome-to-class/slides.html</loc>
+    <lastmod>2022-01-30T21:35:16.063Z</lastmod>
+  </url>
+  <url>
+    <loc>https://stat375.github.io/course-materials/welcome-to-class/plan.html</loc>
+    <lastmod>2022-01-30T21:35:16.279Z</lastmod>
   </url>
   <url>
     <loc>https://stat375.github.io/course-materials/syllabus.html</loc>
-    <lastmod>2022-01-30T19:58:38.289Z</lastmod>
+    <lastmod>2022-01-30T21:35:16.518Z</lastmod>
   </url>
 </urlset>
