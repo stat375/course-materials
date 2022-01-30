@@ -1,0 +1,93 @@
+[
+  {
+    "objectID": "weeks/week-1.html#prepare",
+    "href": "weeks/week-1.html#prepare",
+    "title": "Week 1",
+    "section": "Prepare",
+    "text": "Prepare\n📖 Read the syllabus\n📖 Read the support resources"
+  },
+  {
+    "objectID": "weeks/week-1.html#participate",
+    "href": "weeks/week-1.html#participate",
+    "title": "Week 1",
+    "section": "Participate",
+    "text": "Participate\n🖥️ Lab 0 -Meet+ greet\n🖥️ Lecture 1 - Welcome to STA 210"
+  },
+  {
+    "objectID": "weeks/week-1.html#practice",
+    "href": "weeks/week-1.html#practice",
+    "title": "Week 1",
+    "section": "Practice",
+    "text": "Practice\n📋 AE 0 - Movies"
+  },
+  {
+    "objectID": "weeks/week-1.html#perform",
+    "href": "weeks/week-1.html#perform",
+    "title": "Week 1",
+    "section": "Perform",
+    "text": "Perform\n⌨️ Lab 0 - Meet + greet\n\n\nBack to course schedule ⏎"
+  },
+  {
+    "objectID": "weeks/week-2.html#prepare",
+    "href": "weeks/week-2.html#prepare",
+    "title": "Week 2",
+    "section": "Prepare",
+    "text": "Prepare\n📖 Read Introduction to Modern Statistics, Chp 7: Linear regression with a single predictor"
+  },
+  {
+    "objectID": "weeks/week-2.html#participate",
+    "href": "weeks/week-2.html#participate",
+    "title": "Week 2",
+    "section": "Participate",
+    "text": "Participate\n🖥️ Lab 1 - Meet the toolkit\n🖥️ Lecture 2 - Simple linear regression\n🖥️ Lecture 3 - Model fitting in R with tidymodels"
+  },
+  {
+    "objectID": "weeks/week-2.html#practice",
+    "href": "weeks/week-2.html#practice",
+    "title": "Week 2",
+    "section": "Practice",
+    "text": "Practice\n📋 Application Exercise 1 - Bike rentals in DC (Post-class note: complete only Part 1 - Daily counts and temperature)"
+  },
+  {
+    "objectID": "weeks/week-2.html#perform",
+    "href": "weeks/week-2.html#perform",
+    "title": "Week 2",
+    "section": "Perform",
+    "text": "Perform\n⌨️ Lab 1 - Meet the toolkit\n\n\nBack to course schedule ⏎"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "STAT 375: Teaching Statistics and Data Science",
+    "section": "",
+    "text": "The primary goal of this course is to help first-time GSI appointments become more confident, efficient, and effective teachers. It aims to build in students a curiosity to persistently question their practice: Why am I teaching this particular topic? What is the most important thing that my students learn? How do I know if my students have learned it? Why have I chosen to teach it in the this manner? Why are certain students engaged and succeeding and others not?\nThere are three integral elements to this course. In person class meetings are the core of the experience, when you will encounter new ideas and discuss them in the context of your current teaching. Weekly assignments are an opportunity to reflect on the ideas discussed in class as well as readings. Teaching observations will occur twice during the semester and give you the opportunity to observe a different classroom environment than your own and receive feedback about your own teaching."
+  },
+  {
+    "objectID": "syllabus.html#course-info",
+    "href": "syllabus.html#course-info",
+    "title": "Syllabus",
+    "section": "Course Info",
+    "text": "Course Info\nInstructor: Andrew Bray\nGSI:\nLocation: 340 Evans (graduate students) and 330 Evans (undergraduate students)\nTime: 2 - 4 pm Mondays, excluding holidays"
+  },
+  {
+    "objectID": "syllabus.html#course-materials-and-assessments",
+    "href": "syllabus.html#course-materials-and-assessments",
+    "title": "Syllabus",
+    "section": "Course Materials and Assessments",
+    "text": "Course Materials and Assessments\nThe course materials for each week will be posted to the course website and contain the readings, assignments, and slides that will be used to facilitate the class session.\n\nReadings\nOutside of class you’ll be reading through a range of literature to inform your perspective on teaching statistics. References will be posted to the course website along with information on how to access them.\n\n\nAssignments\nAssignments generally contain two components: a reflection on the previous week and a discussion question around the reading for the following week. Your reflection on the previous week will generally be submitted as an individual assignment to bbCourses and your responses to the reading questions will be posted to the discussion forum.\n\n\nDiscussion forum\nOut-of-class communication for this course will be held on Ed. We will use this forum to host discussions about the readings for the week. It is also where you should turn to if you have a question about the course. Questions that concern sensitive and private topics should be sent as private message (these are readable only by course staff). All other questions should be posted as public notes to the forum so that course staff and fellow students can answer questions in a way that will be visible to others."
+  },
+  {
+    "objectID": "syllabus.html#grading",
+    "href": "syllabus.html#grading",
+    "title": "Syllabus",
+    "section": "Grading",
+    "text": "Grading\nThis course is P/NP. A passing grade indicates that you have attended class regularly, submitted weekly assignment, and joined in two sets of teaching observations."
+  },
+  {
+    "objectID": "syllabus.html#policies",
+    "href": "syllabus.html#policies",
+    "title": "Syllabus",
+    "section": "Policies",
+    "text": "Policies\n\nScheduling Conflicts\nThis course is held in-person and we expect that you’ll be present each week during class. While the campus is under COVID restrictions, class will be held on Zoom.\n\n\nMissing class and assignments\nIf you are feeling unwell, please stay home. Your health and that of the community come first. Materials for all of the course sessions will appear on the course website. Part of the weekly assignments will bear on what is discussed in class, so do your best given your absence from that discussion. If continued absence might endanger passing the class, the instructor will be in touch to discuss options.\n\n\nAccomodations for students with disabilities\nSTAT 375 is a course that is designed to allow all students to succeed. If you have Letters of Accommodations from the Disabled Students’ Program or another authorized office, please share them with your instructor as soon as possible, and we will work out the necessary arrangements."
+  }
+]

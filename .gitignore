@@ -11,7 +11,6 @@ staging/
 *.Rproj
 
 /.quarto/
-_site/
 _freeze/
 .Rdata
 .httr-oauth
