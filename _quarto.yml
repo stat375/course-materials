@@ -1,0 +1,50 @@
+project:
+  type: website
+
+website:
+  title: "STAT 375"
+  description: "STAT 375: Teaching Statistics and Data Science at UC Berkeley"
+  site-url: "https://stat375.github.io/course-materials/"
+
+  search: false
+  page-navigation: true
+  opengraph: true
+
+  page-footer:
+    right: "This page is built with [Quarto](https://quarto.org/)."
+    left: "&copy; Copyright 2022, Andrew Bray"
+
+  sidebar:
+    logo: "assets/images/stat-375-hex.png"
+    pinned: true
+    align: center
+    tools:
+      - icon: chat-left-text
+        href: https://edstem.org/us/courses/19893/discussion/
+        text: "Ed Discussion Forum"
+      - icon: bank
+        href: https://bcourses.berkeley.edu/courses/1514250
+        text: "bCourses Site"
+
+    style: "floating"
+    search: false
+    collapse-level: 2
+    contents:
+      - href: index.qmd
+        text: "Overview"
+      - href: syllabus.qmd
+        text: "Syllabus"
+      - section: "Weekly materials"
+        contents:
+          - href: weeks/week-1.qmd
+            text: "Week 1"
+          - href: weeks/week-2.qmd
+            text: "Week 2"
+
+format:
+  html:
+    theme: [cosmo, garrick-hex]
+    mainfont: "Avenir"
+    code-copy: true
+    code-overflow: wrap
+    toc: true

@@ -1,0 +1,49 @@
+---
+title: "Syllabus"
+subtitle: "STAT 375, UC Berkeley, Spring 2022"
+---
+
+## Course Info
+
+**Instructor**: Andrew Bray  
+**GSI**:    
+**Location**: 340 Evans (graduate students) and 330 Evans (undergraduate students)  
+**Time**: 2 - 4 pm Mondays, excluding holidays
+
+
+## Course Materials and Assessments
+
+The course materials for each week will be posted to the course website and contain the readings, assignments, and slides that will be used to facilitate the class session.
+
+### Readings
+
+Outside of class you'll be reading through a range of literature to inform your perspective on teaching statistics. References will be posted to the course website along with information on how to access them.
+
+### Assignments
+
+Assignments generally contain two components: a reflection on the previous week and a discussion question around the reading for the following week. Your reflection on the previous week will generally be submitted as an individual assignment to bbCourses and your responses to the reading questions will be posted to the discussion forum.
+
+### Discussion forum
+
+Out-of-class communication for this course will be held on [Ed](https://edstem.org). We will use this forum to host discussions about the readings for the week. It is also where you should turn to if you have a question about the course. Questions that concern sensitive and private topics should be sent as private message (these are readable only by course staff). All other questions should be posted as public notes to the forum so that course staff and fellow students can answer questions in a way that will be visible to others.
+
+## Grading
+
+This course is P/NP. A passing grade indicates that you have attended class regularly, submitted weekly assignment, and joined in two sets of teaching observations.
+
+
+## Policies
+
+### Scheduling Conflicts
+
+This course is held in-person and we expect that you'll be present each week during class. While the campus is under COVID restrictions, class will be held on Zoom.
+
+### Missing class and assignments
+
+If you are feeling unwell, please stay home. Your health and that of the community come first. Materials for all of the course sessions will appear on the course website. Part of the weekly assignments will bear on what is discussed in class, so do your best given your absence from that discussion. If continued absence might endanger passing the class, the instructor will be in touch to discuss options.
+
+### Accomodations for students with disabilities
+
+STAT 375 is a course that is designed to allow all students to succeed. If you have Letters of Accommodations from the Disabled Students' Program or another authorized office, please share them with your instructor as soon as possible, and we will work out the necessary arrangements.
+
+
