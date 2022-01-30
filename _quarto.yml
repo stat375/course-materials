@@ -34,12 +34,12 @@ website:
         text: "Overview"
       - href: syllabus.qmd
         text: "Syllabus"
-      - section: "Weekly materials"
+      - section: "Topics"
         contents:
-          - href: weeks/week-1.qmd
-            text: "Week 1"
-          - href: weeks/week-2.qmd
-            text: "Week 2"
+          - href: welcome-to-class/plan.qmd
+            text: "1. Welcome to Class"
+          - href: teaching-as-a-team/plan.qmd
+            text: "2. Teaching as a Team"
 
 format:
   html:
