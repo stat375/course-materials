@@ -1,0 +1,28 @@
+---
+title: "Teaching as a Team"
+subtitle: "STAT 375 UC Berkeley"
+logo: "../assets/images/stat-375-hex.png"
+format: 
+  revealjs:
+    theme: "../assets/css/slides.scss"
+    multiplex: true
+    transition: fade
+    slide-number: true
+    incremental: true 
+editor: visual
+execute:
+  freeze: auto
+---
+
+```{r setup}
+#| include: false
+library(countdown)
+knitr::opts_chunk$set(
+  fig.width = 8,
+  fig.asp = 0.618,
+  fig.retina = 3,
+  dpi = 300,
+  out.width = "80%"
+)
+```
+

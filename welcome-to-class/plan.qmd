@@ -1,0 +1,17 @@
+---
+title: "Week 1: Welcome to Class"
+editor: visual
+---
+
+::: {.callout-important icon="false"}
+Classes are virtual this week. Find Zoom links [here](https://bcourses.berkeley.edu/courses/1514250/discussion_topics/6237999).
+:::
+
+There are no assignments prior to our first class meeting.
+
+## Class Session
+
+The slides used in the class session are linked below.
+
+🖥[Welcome to Class](slides.html)
+

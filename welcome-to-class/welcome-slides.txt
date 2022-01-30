@@ -1,0 +1,186 @@
+---
+title: "Welcome to class"
+author: "STAT 375 UC Berkeley"
+output:
+  xaringan::moon_reader:
+    css: stat20.css
+    lib_dir: libs
+    seal: false
+    nature:
+      highlightStyle: atelier-forest-light
+      highlightLines: true
+      highlightSpans: true
+      ratio: 16:9
+      countIncrementalSlides: false
+      slideNumberFormat: "%current%"
+---
+
+```{r setup, include=FALSE, warning=FALSE}
+knitr::opts_chunk$set(message = FALSE, 
+                      fig.align = "center",
+                      fig.retina = 3,
+                      warning = FALSE)
+
+library(tidyverse)
+library(xaringanthemer)
+source("https://raw.githubusercontent.com/stat20/course-materials/master/assets/stat20-style.r")
+```
+
+class: center, middle
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7nvCVS2TRRk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+# Welcome to STAT 375!
+### Teaching Statistics and Data Science
+
+**While you're waiting**: put into chat one question that you're wondering about going into your first full week of teaching.
+
+---
+## Agenda
+--
+
+1. Introductions
+
+--
+
+2. Course Structure
+
+--
+
+3. Community Standards
+
+--
+
+4. Asking Why
+
+--
+
+5. Break
+
+--
+
+6. GSI Panel
+
+
+---
+# Meet your group
+
+- In your breakout rooms, take turns introducing yourselves and sharing:
+  - Your name and preferred pronouns
+  - Your year and major
+  - What class you are teaching
+  - Memory of your best teacher and what made them so effective
+  
+- You have 8 minutes
+
+---
+# Introductions
+
+No slides
+
+
+---
+# Course Structure
+
+View syllabus on Ed.
+
+---
+# Course Timeline
+
+Each week:
+
+--
+
+**Monday**: meet for 1.5 - 2 hrs
+
+--
+
+**Wednesday**: assignments available on bCourses
+
+--
+
+**Sunday 8 pm**: assignments due on bCourses
+
+--
+
+Assignments generally feature reflections on the previous week and readings for the coming week.
+
+
+---
+# Community Standards
+
+In your breakout rooms, please agree upon:
+
+1. Three adjectives that describe a class environment is **conducive** to everyone learning
+2. Three adjectives that describe a class environment that is **not conducive** to everyone learning
+
+Then post them to the padlet:
+
+https://padlet.com/andrewbray1/oykqvd86obxx9bfh
+
+You will have 8 minutes.
+
+---
+class: middle, center
+
+# Course Goals
+
+--
+
+.adage[
+Train the habit of asking *why* you are teaching something one way or another.
+]
+
+--
+
+.adage[
+Judge your teaching not by your knowledge of statistics / data science, but by your student's.
+]
+
+---
+class: middle, center
+
+# Critique of this class so far...
+
+---
+
+What worked? What didn't? How can we change it?
+
+.pull-left[
+### Meet your group
+- What was the goal?
+- How big should the groups be?
+- Which questions?
+
+### Introductions
+- How personal should you be?
+]
+
+--
+
+.pull-right[
+### Syllabus
+- What were your main takeaways?
+- How else could this information be presented?
+
+### Community Standards
+- What was the feel of the group discussion?
+- Was everyone participating?
+]
+
+
+---
+class: inverse, center, middle
+
+# Break until 3:15
+
+---
+class: center, middle
+
+# GSI Panel
+
+### Isaac Schmidt
+### Chad Breece
+
+
+
