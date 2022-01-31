@@ -6,7 +6,7 @@ subtitle: "STAT 375, UC Berkeley, Spring 2022"
 ## Course Info
 
 **Instructor**: Andrew Bray  
-**GSI**: Noor Hanafi
+**GSI**: Noor Hanafi  
 **Location**: 340 Evans (graduate students) and 330 Evans (undergraduate students)  
 **Time**: 2 - 4 pm Mondays, excluding holidays
 
