@@ -1,0 +1,5 @@
+---
+title: "Lesson Planning (some active learning)"
+format: revealjs
+editor: visual
+---

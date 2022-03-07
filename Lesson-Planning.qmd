@@ -4,7 +4,7 @@ subtitle: "+ Finishing Active Learning"
 institute: "STAT 375 UC Berkeley"
 format: 
   revealjs:
-    theme: simple
+    theme: "assets/css/stat20.scss"
     highlight-style: breezedark
     slide-number: true
     incremental: true
@@ -95,13 +95,15 @@ Consider a specific aspect of or incident in your working relationship with your
 
 
 ## Think-Pair-Share Protocol
+::: nonincremental
 1. Think: give students ~1 minute to consider the question and articulate their thinking (usually in writing).
 
 2. Pair: students take turns explaining their thinking to a peer.
 
 3. Share: pairs share their thinking with the class to air correct and incorrect conceptions.
-
+::: 
 **How can this fail?**
+
 
 ## Active learning protocols
 
@@ -117,11 +119,10 @@ Consider a specific aspect of or incident in your working relationship with your
 
 Instructor pauses every ~15 minutes during lecture and asks students to:
 
-::: nonincremental
 - Take a couple of minutes to summarize in writing what they just learned and jot down any questions or confusions or.
 
 - Turn to a neighbor and discuss and rework their notes in pairs, including identifying questions or confusions.
-:::
+
 
 ## Active learning protocols
 
@@ -135,17 +136,17 @@ Instructor pauses every ~15 minutes during lecture and asks students to:
 4. Quick writes
 :::
 
-## Quick writes
+## Quick writes{.smaller}
 
 Instructor poses a prompt that students respond to in writing for ~5 minutes or less.
 
-::: nonincremental
+
 - prompt might be a conceptual question, or metacognitive/reflective(link is external) question, including asking students to identify the most important takeaway or a point of confusion.
 
 - can be implemented at many points during a lecture, combined with small- or large-group discussion, and may be collected to inform future class sessions
 
 - if graded, points are typically awarded for completion/participation.
-:::
+
 
 
 ## Discussion Sections
@@ -200,7 +201,7 @@ Think about the last class session you taught.
 
 ::: nonincremental
 - Identify the **distinct pieces** of this session (e.g. gave a quiz, mini-lecture on topic X, review solution to problem Y)
-- Record each of these pieces on a post-it note and lay them out in front of you in the order they were taught.]
+- Record each of these pieces on a post-it note and lay them out in front of you in the order they were taught.
 ::: 
 
 ## Example
@@ -215,7 +216,7 @@ Think about the last class session you taught.
 
 ::: nonincremental
 - Identify the **distinct pieces** of this session (e.g. gave a quiz, mini-lecture on topic X, review solution to problem Y)
-- Record each of these pieces on a post-it note and lay them out in front of you in the order they were taught.]
+- Record each of these pieces on a post-it note and lay them out in front of you in the order they were taught.
 ::: 
 
 ```{r echo = FALSE}
@@ -313,16 +314,16 @@ knitr::include_graphics("assets/images/lp-4_Page_1.png")
 Every GSI is operating within different constraints. Start small. Try changing just one thing.
 
 
-- Start your class with something that engages students and elicits prior knowledge.
+- Start your class with something that engages students and elicits prior knowledge. You could combine this with an icebreaker, check in question to keep it casual and make it a routine. 
 
 
-- Allow for exploration _before_ you explain or give mini-lectures.
+- Allow for exploration _before_ you explain or give mini-lectures. Spend time thinking about strategies to get students to collaborate and share their thoughts with others and the class.  
 
 
-- Collect some form of assessment (informal is ok!) from your students every class.
+- Collect some form of assessment (informal is ok!) from your students every class. The middle of the semester is approaching (crazy!), that's a natural time to send a feedback form. 
 
 
-## References
+## References{.smaller}
 
 This class session is adapted from:
 
