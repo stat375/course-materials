@@ -44,6 +44,12 @@ countdown::countdown(minutes = 10, bottom = 0)
 
 ![](images/ComputerLab2020.jpeg)
 
+:::footer
+
+source: https://www.uakron.edu/cba/student-resources/cba-computer-labs/
+
+:::
+
 ## Should they be:
 
 -   working solo, in groups?
@@ -53,10 +59,6 @@ countdown::countdown(minutes = 10, bottom = 0)
 -   answering questions?
 
     -   questions about tools? context? concepts?
-
-[^1]
-
-[^1]: source: https://www.uakron.edu/cba/student-resources/cba-computer-labs/
 
 ## Think before you compute
 
