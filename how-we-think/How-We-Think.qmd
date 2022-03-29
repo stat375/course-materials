@@ -69,13 +69,13 @@ Foster **curiosity** with careful questions.
 Source: Dan Willingham
 :::
 
----
+------------------------------------------------------------------------
 
 ## Attention
 
 **Attention** determines which aspects of our environment enter short term memory.
 
----
+------------------------------------------------------------------------
 
 ## Class Questions
 
@@ -89,7 +89,7 @@ As a **teacher**, when / why have you misdirected student attention?
 :::
 :::
 
----
+------------------------------------------------------------------------
 
 ::: columns
 ::: {.column width="50%"}
@@ -111,9 +111,9 @@ things that might come up for teachers:
 :::
 :::
 
----
+------------------------------------------------------------------------
 
-## Siege of Breda 
+## Siege of Breda
 
 The siege of Breda of 1624--25 occurred during the Eighty Years' War. The siege resulted in Breda, a Dutch fortified city, falling into the control of the Army of Flanders.
 
@@ -127,9 +127,9 @@ Source: Wikipedia
 The Siege of Breda was a dramatic event in Spanish history. It occured in the 17th century as a part of the Eighty years war. The Spanish Army, under the commander Ambrogio Spinola, representing King Philip V of Spain laid siege to the city in August at a time when sieges were thought to no longer be effect tools in a military campaign. The city of Breda was well-defended and were confident they would win.
 :::
 
----
+------------------------------------------------------------------------
 
-## Siege of Breda, cont. 
+## Siege of Breda, cont.
 
 Yet despite the Spanish government's opposition to major sieges in the Low Countries and the obstacles confronting any attack on such a strongly fortified and defended city, Spinola launched his Breda campaign, rapidly blocking the city's defences and driving off a Dutch relief army under the leadership of Maurice of Nassau that had attempted to cut off the Spanish army's access to supplies.
 
@@ -145,11 +145,11 @@ This is the surrender at Breda by Velasquez
 ...describe what you see...
 :::
 
----
+------------------------------------------------------------------------
 
 ![The Surrender at Breda by Velasquez](images/velasquez.jpeg)
 
----
+------------------------------------------------------------------------
 
 {background-color="black"}
 
@@ -157,7 +157,7 @@ This is the surrender at Breda by Velasquez
 The reason why the Siege of Breda is important is that is restored the pride and reputation of the Spanish Army.
 :::
 
----
+------------------------------------------------------------------------
 
 ## The Siege of Breda
 
@@ -172,7 +172,7 @@ The reason why the Siege of Breda is important is that is restored the pride and
 5.  Why was the Siege of Breda important?
     -   *Restored the pride and reputation of the Spanish army.*
 
----
+------------------------------------------------------------------------
 
 ## Curating Attention
 
@@ -184,7 +184,7 @@ Some tips:
 
 Did you read this slide or listen to it being read?
 
----
+------------------------------------------------------------------------
 
 ## Take homes from today
 
@@ -192,11 +192,11 @@ Foster **curiosity** with careful questions.
 
 As a teacher, you are a curator of **attention**.
 
----
+------------------------------------------------------------------------
 
 # The Limits of Working Memory
 
----
+------------------------------------------------------------------------
 
 <https://www.youtube.com/embed/CgR5mSAGxtA?start=2162>
 
@@ -212,7 +212,7 @@ Felienne Hermans is a scientist working at Leiden University as an associate pro
 
 ![](images/model-of-thinking.jpeg)
 
----
+------------------------------------------------------------------------
 
 ## Working Memory
 
@@ -223,7 +223,7 @@ Felienne Hermans is a scientist working at Leiden University as an associate pro
 ```{r}
 ```
 
----
+------------------------------------------------------------------------
 
 ## Group Discussion
 
@@ -233,7 +233,7 @@ With your group, come up with a list of **5 strategies** that help students chun
 countdown::countdown(minutes = 7, bottom = 0, font_size = "2em")
 ```
 
----
+------------------------------------------------------------------------
 
 ## Example from the reading
 
@@ -251,7 +251,7 @@ Follow up questions:
 -   What does this tell us about using world problems?
 :::
 
----
+------------------------------------------------------------------------
 
 ## Example from this class
 
@@ -269,7 +269,7 @@ How does it affect *cognitive* load?
 :::
 :::
 
----
+------------------------------------------------------------------------
 
 ## Take homes from today
 
@@ -279,11 +279,11 @@ As a teacher, you are a curator of **attention**.
 
 Beat the limits of working memory by **chunking**.
 
----
+------------------------------------------------------------------------
 
 # Concrete Strategies
 
----
+------------------------------------------------------------------------
 
 ## Concrete Strategies
 

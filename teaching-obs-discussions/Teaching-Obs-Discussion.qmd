@@ -55,7 +55,7 @@ countdown::countdown(minutes = 10, bottom = 0)
     2.  What were the strengths?
     3.  Where are you seeking suggestions for improvement?
 
----
+------------------------------------------------------------------------
 
 2.  Observer
     1.  What went well?
@@ -66,11 +66,11 @@ countdown::countdown(minutes = 10, bottom = 0)
 
     4.  Share observation form
 
----
+------------------------------------------------------------------------
 
 3.  Discuss: Instructor takes notes on form
 
----
+------------------------------------------------------------------------
 
 ```{r}
 countdown::countdown(minutes = 10, top = 0, bottom = 0, left = 0, right = 0, font_size = "5em")
@@ -87,10 +87,9 @@ countdown::countdown(minutes = 10, top = 0, bottom = 0, left = 0, right = 0, fon
     3.  Where are you seeking suggestions for improvement
 :::
 
----
+------------------------------------------------------------------------
 
 ::: nonincremental
-
 2.  Observer
     1.  What went well?
 
@@ -101,11 +100,11 @@ countdown::countdown(minutes = 10, top = 0, bottom = 0, left = 0, right = 0, fon
     4.  Share observation form
 :::
 
----
+------------------------------------------------------------------------
 
 3.  Discuss: Instructor takes notes on form
 
----
+------------------------------------------------------------------------
 
 ```{r}
 countdown::countdown(minutes = 10, top = 0, bottom = 0, left = 0, right = 0, font_size = "5em")
@@ -113,12 +112,10 @@ countdown::countdown(minutes = 10, top = 0, bottom = 0, left = 0, right = 0, fon
 
 ## Large group discussion questions
 
-:::poll
-
+::: poll
 -   As the teacher, what was the most useful part of this process for you?
 
 -   As the observer, what would you like to improve for next time?
-
 :::
 
 ![](images/observation-cycle.png)
