@@ -1,0 +1,326 @@
+---
+title: "Assessing Student Understanding"
+subtitle: "STAT 375 UC Berkeley"
+logo: "../assets/images/stat-375-hex.png"
+format: 
+  revealjs:
+    theme: "../assets/css/stat20.scss"
+    multiplex: true
+    transition: fade
+    slide-number: true
+    incremental: true 
+editor: visual
+execute:
+  freeze: auto
+---
+
+## Please sit somewhere new and with people you haven't gotten to know yet
+
+## Agenda
+
+1.  Reflections from teaching
+2.  Assessments and Grading
+    -   Types of assessments
+
+    -   Goals of grading
+
+    -   Alternate grading systems
+3.  Break
+4.  Writing good questions
+    -   Bloom's Taxonomy
+    -   Question Workshop
+
+---
+
+# Assessments and Grades
+
+## Three types of Assessments
+
+1.  **Diagnostic**
+2.  **Formative**
+3.  **Summative**
+
+------------------------------------------------------------------------
+
+<iframe width="1120" height="630" src="https://www.youtube.com/embed/JI-YgK-l4Sg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+
+</iframe>
+
+## What do assessments look like?
+
+::: columns
+::: {.column width="40%"}
+-   Exams
+-   Quizzes
+-   Essays
+-   Presentations
+:::
+
+::: {.column width="60%"}
+-   Labs
+-   Projects
+-   Quick writes
+-   In class questions
+:::
+:::
+
+-   Practice problems?
+
+------------------------------------------------------------------------
+
+*Assessments* can be anything the instructor asks of the student to assess their level of understanding; opportunities provided to students to demonstrate their own understanding.
+
+::: poll
+Discussion: Items meant purely for practice, like some homework, might not be considered an assessment and might not be graded.
+:::
+
+------------------------------------------------------------------------
+
+## What are grades?
+
+> ...the practically universal use in all educational institutions of a system of marks, whether numbers or letters, to indicate scholastic attainment of the pupils or students in these institutions... - I. E. Finkelstein
+
+------------------------------------------------------------------------
+
+# Disclaimer
+
+The system of grading in your class is more or less out of your hands at the moment.
+
+## Purposes of Grading
+
+```{r}
+knitr::include_graphics("images/grading-less.png")
+```
+
+1.  Grades as Feedback on Performance
+
+2.  Grades as a Motivator of Student Effort
+
+3.  Grades as a Tool for Comparing Students
+
+4.  Grades as an Objective Evaluation of Student Knowledge
+
+## 1. Grades as Feedback on Performance
+
+> What kinds of feedback are there? Does it work?
+
+-   Feedback can be descriptive (here's what you need to do) or evaluative (here's where you're at).
+
+-   "the grade trumps the comment"
+
+-   Unclear if comments are read and understood.
+
+## 2. Grades as Motivator of Student Effort {.smaller}
+
+> Does it work? For whom?
+
+
+-   "Grades can dampen existing intrinsic motivation, give rise to extrinsic motivation, enhance fear of failure, reduce interest, decrease enjoyment in class work, increase anxiety, hamper performance on follow-up tasks, stimulate avoidance of challenging tasks, and heighten competitiveness"
+
+-   Extrinsic motivation supplants intrinsic motivation.
+
+
+- "Perhaps at best, grading motivates high-achieving students to continue getting high grades---regardless of whether that goal also happens to overlap with learning. At worst, grading lowers interest in learning and enhances anxiety and extrinsic motivation, especially among those students who are struggling."
+
+::: notes
+Study to mention: Regular volunteers (e.g. Kiwanas) provided payment for volunteerism see a decline in hours volunteered over a control, non-compensated group.
+:::
+
+## 3. Grades as Tools for Comparing Students
+
+> Does it work? What are the side-effects?
+
+-   Competition between students inhibits overall learning.
+
+-   Curved grades no longer reflect mastery.
+
+## 4. Grades as an Objective Evaluation of Student Knowledge
+
+> When does it work? When doesn't it?
+
+-   Objective (MC questions) grading as fair but artificial.
+
+-   Subjective grading of writing very inconsistent between and within instructors.
+
+-   Rubrics help.
+
+## PI-style Question
+
+Recall the structure of a PI Question.
+
+::: {.nonincremental}
+1.  Solo think and poll
+2.  Discuss with table. Move if no disagreement.
+3.  Repoll
+4.  Share as class
+:::
+
+Prepare to poll: `pollev.com/stat20`
+
+```{r}
+plot(qrcode::qr_code("https://pollev.com/stat20"))
+```
+
+## {.smaller}
+
+::: columns
+::: {.column width="50%"}
+### Model A
+Students are given written feedback on assignments instead of grades. At the end of the course, they get a written summary. 
+
+### Model C
+Students get feedback on assignments but the grades are hidden from them until the completion of the course. At 8 weeks, they're notified whether or not they're on track to pass the course.
+:::
+
+::: {.column width="50%"}
+### Model B
+Students are only given feedback, not grades, while taking a course. They have the option, though, of registering for a separate examination by an external evaluator. 
+
+### Model D
+Students are given a grade on every assignment and the rubric for evaluation is made completely transparent. They know their progress at all times.
+:::
+:::
+
+```{r}
+countdown::countdown(minutes = 0,seconds = 30, bottom = 0, font_size = "1em", warn_when = 10)
+```
+## {.smaller}
+
+::: columns
+::: {.column width="40%"}
+### Model A
+
+Students are given written feedback on assignments instead of grades. At the end of the course, they get a written summary.
+
+### Model C
+
+Students get feedback on assignments but the grades are hidden from them until the completion of the course. At 8 weeks, they're notified whether or not they're on track to pass the course.
+:::
+
+::: {.column width="60%"}
+### Model B
+
+Students are only given feedback, not grades, while taking a course. They have the option, though, of registering for a separate examination by an external evaluator.
+
+### Model D
+
+Students are given a grade on every assignment and the rubric for evaluation is made completely transparent. They know their progress at all times.
+:::
+:::
+
+```{r}
+countdown::countdown(minutes = 8, bottom = 0, font_size = "1em", warn_when = 10)
+```
+
+## Poll Results
+<center>
+<iframe src="https://embed.polleverywhere.com/multiple_choice_polls/OMwwmmtRuyDcQfbdBG0Yb?controls=none&short_poll=true" width="800px" height="600px"></iframe>
+</center>
+
+## Repoll Results
+<center>
+
+<iframe src="https://embed.polleverywhere.com/multiple_choice_polls/8cPfH44JDibVtbX8CF66E?controls=none&amp;short_poll=true" width="800px" height="600px">
+
+</iframe>
+
+</center>
+
+------------------------------------------------------------------------
+
+# Break
+
+```{r}
+countdown::countdown(minutes = 5, bottom = 0, font_size = "1em", warn_when = 10)
+```
+
+# Writing Good Questions
+
+## Bloom's Taxonomy
+
+```{r}
+knitr::include_graphics("images/blooms.jpeg")
+```
+
+## Example 1
+
+```{r}
+knitr::include_graphics("images/blooms-ex1.png")
+```
+
+> Which levels of the hierarchy are tested by the following question? What must students know to answer it?
+
+## Example 2
+
+```{r}
+knitr::include_graphics("images/blooms-ex2.png")
+```
+
+> Which levels of the hierarchy are tested by the following question? What must students know to answer it?
+
+## Example 3
+
+```{r}
+knitr::include_graphics("images/blooms-ex3.png")
+```
+
+> Which levels of the hierarchy are tested by the following question? What must students know to answer it?
+
+## Questions to ask
+
+::: poll
+What other questions should you ask yourself when you're writing questions?
+:::
+
+1.  Which level of the hierarchy is being assessed?
+
+2.  What must students know to answer it?
+
+3.  How could a student misinterpret this question?
+
+4.  Can a student answer this question if they got a previous one wrong?
+
+5.  How long will this question take to answer?
+
+6.  How long will this question take to grade?
+
+::: notes
+Consider populating this list with GSI advice on the board before showing.
+:::
+
+---
+### Question workshop part I
+
+With the people at your table, take turns sharing your question and addressing
+
+::: nonincremental
+1.  The concept(s) that it assesses.
+2.  The form of inquiry it assesses based on Bloom's.
+3.  What you like / dislike about the question.
+4.  Where/how a student could misinterpret the question.
+5.  How difficult it will be to grade.
+:::
+
+```{r}
+countdown::countdown(minutes = 10, bottom = 0, font_size = "3em", warn_when = 10)
+```
+
+## Question workshop part II {.smaller}
+
+Select one of your groups question as a candidate for revisions.
+
+::: nonincremental
+1.  Upload the question to the google doc.
+2.  Rewrite the question into a second version that is **more** challenging.
+3.  Rewrite the question into a third version that is **less** challenging.
+:::
+
+Link to the google doc: `shorturl.at/btvF9`
+
+```{r fig.width=3,fig.height=3}
+plot(qrcode::qr_code("shorturl.at/btvF9"))
+```
+
+```{r}
+countdown::countdown(minutes = 6, bottom = 0, font_size = "1em", warn_when = 10)
+```
