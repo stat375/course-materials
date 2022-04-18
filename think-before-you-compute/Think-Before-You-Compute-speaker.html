@@ -1,17 +1,14 @@
 <!DOCTYPE html>
 <html lang="en"><head>
   <meta charset="utf-8">
-  <meta name="generator" content="quarto-0.9.19">
-  <title>STAT 375 - Think Before You Compute</title>
+  <meta name="generator" content="quarto-0.9.135">
+  <title>STAT 375 - Time Spent Outside and Inside the Classroom</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
   <link rel="stylesheet" href="../site_libs/revealjs/dist/reset.css">
   <link rel="stylesheet" href="../site_libs/revealjs/dist/reveal.css">
   <style>
-    .reveal .sourceCode {  /* see #7635 */
-      overflow: visible;
-    }
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
     span.underline{text-decoration: underline;}
@@ -27,7 +24,7 @@
   <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
   <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
   <link href="../site_libs/quarto-html/quarto-html.min.css" rel="stylesheet">
-  <link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet">
+  <link id="quarto-text-highlighting-styles" href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet">
   <link href="../site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
   <link href="../site_libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
   <link href="../site_libs/revealjs/plugin/reveal-menu/quarto-menu.css" rel="stylesheet">
@@ -242,12 +239,6 @@
     .reveal .slide:not(.center) {
       height: 100%;
     }
-    .reveal #title-slide.center,
-    .reveal .title-slide.center,
-    .reveal .controls .navigate-left .controls-arrow,
-    .reveal .controls .navigate-right .controls-arrow {
-      margin-top: -15px;
-    }
     .reveal .slide.scrollable {
       overflow-y: auto;
     }
@@ -331,40 +322,53 @@
     <div class="slides">
 
 <section id="title-slide" class="center">
-  <h1 class="title">Think Before You Compute</h1>
+  <h1 class="title">Time Spent Outside and Inside the Classroom</h1>
   <p class="subtitle">STAT 375 UC Berkeley</p>
 </section>
 
 <section id="agenda" class="slide level2">
 <h2>Agenda</h2>
 <ol type="1">
-<li class="fragment">Reflections from Teaching</li>
-<li class="fragment">Think before you compute
+<li class="fragment">Time outside of the classroom
 <ol type="1">
-<li class="fragment"><p>The curse of small curiosities</p></li>
-<li class="fragment"><p>Lesson plan case study: student evals</p></li>
-<li class="fragment"><p>Debrief</p></li>
+<li class="fragment">Discussion: the class forum</li>
+</ol></li>
+<li class="fragment">Time in the classroom: Think before you compute
+<ol type="1">
+<li class="fragment">The curse of small curiosities</li>
+<li class="fragment">Lesson plan case study: student evals</li>
+<li class="fragment">Debrief</li>
 </ol></li>
 </ol>
 </section>
-<section id="reflections-from-teaching" class="slide level2">
-<h2>Reflections from Teaching</h2>
-<p>In your groups take turns sharing:</p>
-<ol type="1">
-<li class="fragment">One thing that went well</li>
-<li class="fragment">One thing that went poorly</li>
-<li class="fragment">One thing that you learned</li>
-</ol>
+<section>
+<section id="time-outside-of-the-classroom" class="title-slide slide level1 center">
+<h1>Time Outside of the classroom</h1>
+
+</section>
+<section id="the-power-of-patience" class="slide level2">
+<h2>The Power of Patience</h2>
+<h3 id="teaching-students-the-value-of-deceleration-and-immersive-attention">Teaching students the value of deceleration and immersive attention</h3>
+
+<img data-src="images/boy-with-squirrel.jpeg" width="495" class="r-stretch"><blockquote>
+<p>Changing the pace of the exchange would have changed the form and content of the exchange. This particular painting simply would not exist. This painting is formed out of delay, not in spite of it.</p>
+</blockquote>
+</section>
+<section id="discussion-question" class="slide level2">
+<h2>Discussion Question</h2>
+<div class="poll">
+<p>What would your class look like without Piazza / Ed / bCourses / email? Would would students gain? What would they lose?</p>
+</div>
 <div class="cell">
 <div class="cell-output-display">
-<div class="countdown" id="timer_6240dffe" style="right:0;bottom:0;" data-warnwhen="0">
-<code class="countdown-time"><span class="countdown-digits minutes">10</span><span class="countdown-digits colon">:</span><span class="countdown-digits seconds">00</span></code>
+<div class="countdown" id="timer_62466867" style="right:0;bottom:0;font-size:2em;" data-warnwhen="0">
+<code class="countdown-time"><span class="countdown-digits minutes">05</span><span class="countdown-digits colon">:</span><span class="countdown-digits seconds">00</span></code>
 </div>
 </div>
 </div>
-</section>
-<section id="think-before-you-compute" class="title-slide slide level1 center">
-<h1>Think Before You Compute</h1>
+</section></section>
+<section id="time-inside-the-classroom" class="title-slide slide level1 center">
+<h1>Time Inside the Classroom</h1>
 
 </section>
 
@@ -376,64 +380,67 @@
 <section id="what-should-students-be-doing" class="slide level2">
 <h2>What should students be doing?</h2>
 
-<img data-src="images/ComputerLab2020.jpeg" class="r-stretch"></section>
+<img data-src="images/ComputerLab2020.jpeg" width="470" class="r-stretch"><div class="footer">
+<p>source: https://www.uakron.edu/cba/student-resources/cba-computer-labs/</p>
+</div>
+</section>
 <section id="should-they-be" class="slide level2">
 <h2>Should they be:</h2>
 <ul>
-<li class="fragment"><p>working solo, in groups?</p></li>
-<li class="fragment"><p>reading / learning?</p></li>
-<li class="fragment"><p>answering questions?</p>
+<li class="fragment">working solo, in groups?</li>
+<li class="fragment">reading / learning?</li>
+<li class="fragment">answering questions?
 <ul>
 <li class="fragment">questions about tools? context? concepts?</li>
 </ul></li>
 </ul>
-<p><a href="#/fn1" class="footnote-ref" id="fnref1" role="doc-noteref" onclick="return false;"><sup>1</sup></a></p>
 </section>
-<section id="think-before-you-compute-1" class="slide level2">
+<section id="think-before-you-compute" class="slide level2">
 <h2>Think before you compute</h2>
 <p><strong>Premise:</strong> when put in a computing environment with data, certain processes falter:</p>
 <ul>
-<li class="fragment"><p>If they have an uncertain background, students flail</p></li>
-<li class="fragment"><p>“hacking” mentality can take over</p></li>
-<li class="fragment"><p>Tunnel vision</p></li>
+<li class="fragment">If they have an uncertain background, students flail</li>
+<li class="fragment">“hacking” mentality can take over</li>
+<li class="fragment">Tunnel vision</li>
 </ul>
 </section>
-<section id="think-before-you-compute-2" class="slide level2">
+<section id="think-before-you-compute-1" class="slide level2">
 <h2>Think before you compute</h2>
 <div class="columns">
 <div class="column" style="width:40%;">
 <p><strong>Part I</strong></p>
 <ul>
-<li class="fragment"><p>No computers</p></li>
-<li class="fragment"><p>Think-pair-share</p></li>
-<li class="fragment"><p>Understand questions and data collection</p></li>
-<li class="fragment"><p>Prepare expectations around data structure</p></li>
+<li class="fragment">No computers</li>
+<li class="fragment">Think-pair-share</li>
+<li class="fragment">Understand questions and data collection</li>
+<li class="fragment">Prepare expectations around data structure</li>
 </ul>
 </div><div class="column" style="width:60%;">
 <p><strong>Part II</strong></p>
 <ul>
-<li class="fragment"><p>Computers + Data</p></li>
-<li class="fragment"><p>Verify data structure</p>
+<li class="fragment">Computers + Data</li>
+<li class="fragment">Verify data structure
 <ul>
-<li class="fragment"><p>Make plots</p></li>
-<li class="fragment"><p>Conduct analysis</p></li>
+<li class="fragment">Make plots</li>
+<li class="fragment">Conduct analysis</li>
 </ul></li>
-<li class="fragment"><p>Some think-pair-share</p></li>
-<li class="fragment"><p>Tie back to part I</p></li>
+<li class="fragment">Some think-pair-share</li>
+<li class="fragment">Tie back to part I</li>
 </ul>
 </div>
 </div>
-</section>
-<section id="part-1" class="slide level2">
-<h2>Part 1</h2>
+</section></section>
+<section>
+<section id="part-i" class="title-slide slide level1 center">
+<h1>Part I</h1>
 <p>Please put all laptops away. You won’t need them today.</p>
 </section>
 <section id="getting-started" class="slide level2">
 <h2>Getting Started</h2>
 <ul>
-<li class="fragment"><p>Please form pairs or trios</p></li>
-<li class="fragment"><p>Move around seats as needed</p></li>
-<li class="fragment"><p>Introduce yourself to anyone you don’t know</p></li>
+<li class="fragment">Please form pairs or trios</li>
+<li class="fragment">Move around seats as needed</li>
+<li class="fragment">Introduce yourself to anyone you don’t know</li>
 </ul>
 </section>
 <section id="work-flow-for-today" class="slide level2">
@@ -446,68 +453,57 @@
 </ol>
 <p>Then we’ll repeat this cycle to work through all/most of the questions for the first half of the lab.</p>
 </section>
-<section class="slide level2">
-
-<p><strong>General</strong></p>
-<ul>
-<li class="fragment">As you read through the article, note here any words or acronyms that you were not familiar with before and provide their definition.</li>
-</ul>
-</section>
-<section class="slide level2">
-
-<p><strong>Abstract</strong></p>
-<ul>
-<li class="fragment"><p>Which finding strikes you as most important? Why?</p></li>
-<li class="fragment"><p>Based on the results summarized here, what do you believe was the overarching research question that the scientists were wondering about when they devised this study?</p></li>
-</ul>
+<section id="abstract" class="slide level2">
+<h2>Abstract</h2>
+<ol type="1">
+<li class="fragment">Which finding strikes you as most important? Why?</li>
+<li class="fragment">Based on the results summarized here, what do you believe was the overarching research question that the scientists were wondering about when they devised this study?</li>
+</ol>
 <div class="cell">
 <div class="cell-output-display">
-<div class="countdown" id="timer_6240e266" style="right:0;bottom:0;font-size:2em;" data-warnwhen="0">
+<div class="countdown" id="timer_62466945" style="right:0;bottom:0;font-size:2em;" data-warnwhen="0">
 <code class="countdown-time"><span class="countdown-digits minutes">03</span><span class="countdown-digits colon">:</span><span class="countdown-digits seconds">00</span></code>
 </div>
 </div>
 </div>
 </section>
-<section class="slide level2">
-
-<p><strong>Background</strong></p>
-<ul>
-<li class="fragment"><p>Why is a student’s answer to “How effective was the instructor?” not always helpful in understanding how effective the instructor was?</p></li>
-<li class="fragment"><p>What is the general statement of the null hypothesis that is applied to every analysis in this paper?</p></li>
-<li class="fragment"><p>What do the results of this study indicate about the relative impact of the teaching effectiveness and perceived gender on SET?</p></li>
-</ul>
+<section id="background" class="slide level2">
+<h2>Background</h2>
+<ol start="3" type="1">
+<li class="fragment">Why is a student’s answer to “How effective was the instructor?” not always helpful in understanding how effective the instructor was?</li>
+<li class="fragment">What is the general statement of the null hypothesis that is applied to every analysis in this paper?</li>
+<li class="fragment">What do the results of this study indicate about the relative impact of the teaching effectiveness and perceived gender on SET?</li>
+</ol>
 <div class="cell">
 <div class="cell-output-display">
-<div class="countdown" id="timer_6240dfff" style="right:0;bottom:0;font-size:2em;" data-warnwhen="0">
+<div class="countdown" id="timer_624668e3" style="right:0;bottom:0;font-size:2em;" data-warnwhen="0">
 <code class="countdown-time"><span class="countdown-digits minutes">03</span><span class="countdown-digits colon">:</span><span class="countdown-digits seconds">00</span></code>
 </div>
 </div>
 </div>
 </section>
-<section class="slide level2">
-
-<p><strong>Data</strong></p>
-<ul>
+<section id="data" class="slide level2">
+<h2>Data</h2>
+<ol start="6" type="1">
 <li class="fragment">Based on the description in the paper, sketch/speculate what the US experimental data frame might look like. Be sure to note the unit of observation, the number of rows and columns, that names of the variables, their data type, and the values they can take.</li>
-</ul>
+</ol>
 <div class="cell">
 <div class="cell-output-display">
-<div class="countdown" id="timer_6240dfcc" style="right:0;bottom:0;font-size:2em;" data-warnwhen="0">
-<code class="countdown-time"><span class="countdown-digits minutes">07</span><span class="countdown-digits colon">:</span><span class="countdown-digits seconds">00</span></code>
+<div class="countdown" id="timer_624668ca" style="right:0;bottom:0;font-size:2em;" data-warnwhen="0">
+<code class="countdown-time"><span class="countdown-digits minutes">06</span><span class="countdown-digits colon">:</span><span class="countdown-digits seconds">00</span></code>
 </div>
 </div>
 </div>
 </section>
-<section class="slide level2">
-
-<p><strong>Methods</strong></p>
-<ul>
+<section id="methods" class="slide level2">
+<h2>Methods</h2>
+<ol start="7" type="1">
 <li class="fragment">Sketch/speculate what a plot could look like of the relationship between the Prompt SET scores and reported instructor gender. This should be a plot of the full data set and should be consistent with the statistics should in table 8. Repeat the exercise for the Responsive SET scores and reported instructor gender.</li>
-</ul>
+</ol>
 <div class="cell">
 <div class="cell-output-display">
-<div class="countdown" id="timer_6240e23c" style="right:0;bottom:0;font-size:2em;" data-warnwhen="0">
-<code class="countdown-time"><span class="countdown-digits minutes">07</span><span class="countdown-digits colon">:</span><span class="countdown-digits seconds">00</span></code>
+<div class="countdown" id="timer_6246662e" style="right:0;bottom:0;font-size:2em;" data-warnwhen="0">
+<code class="countdown-time"><span class="countdown-digits minutes">05</span><span class="countdown-digits colon">:</span><span class="countdown-digits seconds">00</span></code>
 </div>
 </div>
 </div>
@@ -515,46 +511,53 @@
 <section>
 <section id="part-ii" class="title-slide slide level1 center">
 <h1>Part II</h1>
-<p>Today you will use your laptops.</p>
+<p>Today you will use a computer.</p>
 </section>
-<section class="slide level2">
-
+<section id="getting-started-1" class="slide level2">
+<h2>Getting Started</h2>
+<ul>
+<li class="fragment">Please remain in the pairs/trios from Part I.</li>
+<li class="fragment">Have the person with the <em>least</em> experience computing with data open their laptop; the others should keep their laptops closed.</li>
+</ul>
+</section>
+<section id="section" class="slide level2">
+<h2></h2>
 <p>The authors of this manuscript ensured that their analysis is fully reproducible by marking their manuscript, data, and code easily available at <em>https://github.com/kellieotto/SET-and-Gender-Bias.</em> You can load the data from the US experiment with: <em>https://bit.ly/3vPsnFL</em></p>
 <div class="cell">
 
 </div>
-<ol start="12" type="1">
+<ol start="8" type="1">
 <li class="fragment">What is the unit of observation in the data frame? What are the dimensions of the data frame? How many students from each section filled out evaluations (at least partially)?</li>
 </ol>
 <div class="cell">
 <div class="cell-output-display">
-<div class="countdown" id="timer_6240e2b7" style="right:0;bottom:0;font-size:2em;" data-warnwhen="0">
+<div class="countdown" id="timer_624665fb" style="right:0;bottom:0;font-size:2em;" data-warnwhen="0">
 <code class="countdown-time"><span class="countdown-digits minutes">06</span><span class="countdown-digits colon">:</span><span class="countdown-digits seconds">00</span></code>
 </div>
 </div>
 </div>
 </section>
-<section class="slide level2">
-
-<ol start="14" type="1">
-<li class="fragment">Use the plots that you drew in question 11 as inspiration for constructing two plots of the actual data: the relationship between Prompt SET and reported TA gender, and the relationship between Responsive SET and reported TA gender. Describe each pair of plots: how does the rating for each differ based on the reported instructor gender?</li>
+<section id="section-1" class="slide level2">
+<h2></h2>
+<ol start="9" type="1">
+<li class="fragment">Use the plots that you drew in question 7 as inspiration for constructing two plots of the actual data: the relationship between Prompt SET and reported TA gender, and the relationship between Responsive SET and reported TA gender. Describe each pair of plots: how does the rating for each differ based on the reported instructor gender?</li>
 </ol>
 <div class="cell">
 <div class="cell-output-display">
-<div class="countdown" id="timer_6240e218" style="right:0;bottom:0;" data-warnwhen="0">
+<div class="countdown" id="timer_624667f7" style="right:0;bottom:0;font-size:2em;" data-warnwhen="0">
 <code class="countdown-time"><span class="countdown-digits minutes">05</span><span class="countdown-digits colon">:</span><span class="countdown-digits seconds">00</span></code>
 </div>
 </div>
 </div>
 </section>
-<section class="slide level2">
-
+<section id="section-2" class="slide level2">
+<h2></h2>
 <ol start="15" type="1">
 <li class="fragment"><strong>Conclusion:</strong> Do you find that the arguments in this section of the manuscript are consistent with the results of their data analysis? Do you find that they’re consistent with your own experience with evaluating instructors?</li>
 </ol>
 <div class="cell">
 <div class="cell-output-display">
-<div class="countdown" id="timer_6240e294" style="right:0;bottom:0;" data-warnwhen="0">
+<div class="countdown" id="timer_624667e5" style="right:0;bottom:0;font-size:2em;" data-warnwhen="0">
 <code class="countdown-time"><span class="countdown-digits minutes">03</span><span class="countdown-digits colon">:</span><span class="countdown-digits seconds">00</span></code>
 </div>
 </div>
@@ -567,22 +570,22 @@
 <div class="column" style="width:40%;">
 <p><strong>Part I</strong></p>
 <ul>
-<li class="fragment"><p>No computers</p></li>
-<li class="fragment"><p>Think-pair-share</p></li>
-<li class="fragment"><p>Understand questions and data collection</p></li>
-<li class="fragment"><p>Prepare expectations around data structure</p></li>
+<li class="fragment">No computers</li>
+<li class="fragment">Think-pair-share</li>
+<li class="fragment">Understand questions and data collection</li>
+<li class="fragment">Prepare expectations around data structure</li>
 </ul>
 </div><div class="column" style="width:60%;">
 <p><strong>Part II</strong></p>
 <ul>
-<li class="fragment"><p>Computers + Data</p></li>
-<li class="fragment"><p>Verify data structure</p>
+<li class="fragment">Computers + Data</li>
+<li class="fragment">Verify data structure
 <ul>
-<li class="fragment"><p>Make plots</p></li>
-<li class="fragment"><p>Conduct analysis</p></li>
+<li class="fragment">Make plots</li>
+<li class="fragment">Conduct analysis</li>
 </ul></li>
-<li class="fragment"><p>Some think-pair-share</p></li>
-<li class="fragment"><p>Tie back to part I</p></li>
+<li class="fragment">Some think-pair-share</li>
+<li class="fragment">Tie back to part I</li>
 </ul>
 </div>
 </div>
@@ -592,12 +595,6 @@
 
 </div>
 </section></section>
-<section class="footnotes footnotes-end-of-document smaller scrollable" role="doc-endnotes"><h2>Footnotes</h2>
-
-<ol>
-<li id="fn1" role="doc-endnote"><p>source: https://www.uakron.edu/cba/student-resources/cba-computer-labs/</p></li>
-</ol>
-</section>
     </div>
   </div>
 

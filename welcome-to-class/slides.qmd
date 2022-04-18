@@ -1,5 +1,5 @@
 ---
-title: "Welcome to Class"
+title: "Teaching Statistics and Data Science"
 subtitle: "STAT 375 UC Berkeley"
 logo: "../assets/images/stat-375-hex.png"
 format: 
@@ -26,25 +26,93 @@ knitr::opts_chunk$set(
 )
 ```
 
-# Welcome
+## Agenda
 
-## Announcements
+1.  Introductions
 
--   New on the course website: [FAQ](/course-faq.html)
--   New communication tool: Slack
-    -   Find the invite link in your inbox / on Sakai announcements
-    -   Use #general for questions, #random for random 🤪
-    -   Use code formatting for for questions involving code (see Course FAQ for a demo video)
--   My office hours: All virtual for now, hope to move 1 hour / week to in person later in the semester
+2.  Course Structure
 
-## Hybrid teaching {.smaller}
+3.  Community Standards
 
--   Lectures:
-    -   In person as long as university says so (and I don't have COVID)
-    -   If you can't be in class (and you're well enough to follow along), watch live (or the recording later) on [Panopto](https://duke.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22d6c1d58a-cb6d-4732-9d4b-ae0c011bf767%22)
-    -   Watching live and have questions? Post on Slack!
-    -   In class and see someone ask a question on Slack? Please raise it to me!
--   Labs:
-    -   Not live streamed / recorded
-    -   Lab 2 (next Monday) - individual
-    -   Lab 3 onwards - in teams, if teammates are in isolation, set up team Zoom calls
+4.  Asking Why
+
+5.  Break
+
+6.  GSI Panel
+
+# Meet your group
+
+-   In your breakout rooms, take turns introducing yourselves and sharing:
+    -   Your name and preferred pronouns
+    -   Your year and major
+    -   What class you are teaching
+    -   Memory of your best teacher and what made them so effective
+-   You have 8 minutes
+
+# Introductions
+
+# Course Structure
+
+View syllabus on Ed.
+
+# Course Timeline
+
+Each week:
+
+**Monday**: meet for 1.5 - 2 hrs
+
+**Wednesday**: assignments available on bCourses
+
+**Sunday 8 pm**: assignments due on bCourses
+
+Assignments generally feature reflections on the previous week and readings for the coming week.
+
+# Community Standards
+
+In your breakout rooms, please agree upon:
+
+1.  Three adjectives that describe a class environment is **conducive** to everyone learning
+2.  Three adjectives that describe a class environment that is **not conducive** to everyone learning
+
+Then post them to the padlet:
+
+https://padlet.com/andrewbray1/oykqvd86obxx9bfh
+
+You will have 8 minutes.
+
+# Course Goals
+
+> Train the habit of asking *why* you are teaching something one way or another.
+
+> Judge your teaching not by your knowledge of statistics / data science, but by your student's.
+
+# Critique of this class so far...
+
+## 
+
+What worked? What didn't? How can we change it?
+
+::: columns
+::: {.column width = "50%"} \### Meet your group - What was the goal? - How big should the groups be? - Which questions?
+
+### Introductions
+
+-   How personal should you be?
+:::
+
+::: {.column width = "50%"} \### Syllabus - What were your main takeaways? - How else could this information be presented?
+
+### Community Standards
+
+-   What was the feel of the group discussion?
+-   Was everyone participating? :::
+
+::::
+
+# Break until 3:15
+
+# GSI Panel
+
+### Isaac Schmidt
+
+### Chad Breece
