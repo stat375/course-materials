@@ -44,10 +44,8 @@ countdown::countdown(minutes = 10, bottom = 0)
 
 ![](images/ComputerLab2020.jpeg)
 
-:::footer
-
+::: footer
 source: https://www.uakron.edu/cba/student-resources/cba-computer-labs/
-
 :::
 
 ## Should they be:

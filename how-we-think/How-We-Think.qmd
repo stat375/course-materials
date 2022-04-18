@@ -1,0 +1,302 @@
+---
+title: "How We Think"
+subtitle: "STAT 375 UC Berkeley"
+logo: "../assets/images/stat-375-hex.png"
+format: 
+  revealjs:
+    theme: "../assets/css/stat20.scss"
+    multiplex: true
+    transition: fade
+    slide-number: true
+    incremental: true 
+editor: visual
+execute:
+  freeze: auto
+---
+
+## Agenda
+
+1.  Reflections from teaching
+2.  Curating attention
+3.  The limits of working memory
+4.  Concrete strategies
+
+# Reflections from Learning
+
+## Reflections from learning
+
+Take a moment and jot down an example of a course that you took / lesson that you participated in that ignited your curiosity. Write down another example of a course / lesson where you were supremely incurious / disinterested / bored / disengaged.
+
+::: poll
+What characteristics do identify in these two courses? Is your experience consistent with Willingham's argument that curiosity is fostered through appropriately challenging questions?
+:::
+
+::: notes
+Alternative: Were your students **curious** and engaged this week? Why or why not? What would you change to increase their curiosity? Do you agree with Willingham's argument that curiosity is fostered through appropriately challenging questions?
+:::
+
+```{r}
+countdown::countdown(minutes = 1, bottom = 0)
+```
+
+## Reflections from learning
+
+Take a moment and jot down an example of a course that you took / lesson that you participated in that ignited your curiosity. Write down another example of a course / lesson where you were supremely incurious / disinterested / bored / disengaged.
+
+::: poll
+What characteristics do identify in these two courses? Is your experience consistent with Willingham's argument that curiosity is fostered through appropriately challenging questions?
+:::
+
+```{r}
+countdown::countdown(minutes = 10, bottom = 0)
+```
+
+## Take homes from today
+
+------------------------------------------------------------------------
+
+Foster **curiosity** with careful questions.
+
+<https://www.youtube.com/embed/IGQmdoK_ZfY?start=4>
+
+# Curating attention
+
+## Model of Thinking
+
+![](images/model-of-thinking.jpeg)
+
+::: footer
+Source: Dan Willingham
+:::
+
+------------------------------------------------------------------------
+
+## Attention
+
+**Attention** determines which aspects of our environment enter short term memory.
+
+------------------------------------------------------------------------
+
+## Class Questions
+
+::: columns
+::: {.column width="50%"}
+As a **student**, when / why have you become inattentive in class?
+:::
+
+::: {.column width="50%"}
+As a **teacher**, when / why have you misdirected student attention?
+:::
+:::
+
+------------------------------------------------------------------------
+
+::: columns
+::: {.column width="50%"}
+things that might come up for students:
+
+-   sources of distraction
+
+-   "boredom" - content too easy or too hard
+
+-   focusing on other events in life
+:::
+
+::: {.column width="50%"}
+things that might come up for teachers:
+
+-   tangents, drifting away from learning goals
+
+-   (fear of) loss of credibility by students
+:::
+:::
+
+------------------------------------------------------------------------
+
+## Siege of Breda
+
+The siege of Breda of 1624--25 occurred during the Eighty Years' War. The siege resulted in Breda, a Dutch fortified city, falling into the control of the Army of Flanders.
+
+Following the orders of Ambrogio Spinola, Philip IV's army laid siege to Breda in August 1624. The siege was contrary to the wishes of Philip IV's government because of the already excessive burdens of the concurrent Eighty and Thirty Years' wars. The strategically located city was heavily fortified and strongly defended by a large and well prepared garrison of 7,000 men, that the Dutch were confident would hold out long enough to wear down besiegers while awaiting a relief force to disrupt the siege.
+
+::: footer
+Source: Wikipedia
+:::
+
+::: notes
+The Siege of Breda was a dramatic event in Spanish history. It occured in the 17th century as a part of the Eighty years war. The Spanish Army, under the commander Ambrogio Spinola, representing King Philip V of Spain laid siege to the city in August at a time when sieges were thought to no longer be effect tools in a military campaign. The city of Breda was well-defended and were confident they would win.
+:::
+
+------------------------------------------------------------------------
+
+## Siege of Breda, cont.
+
+Yet despite the Spanish government's opposition to major sieges in the Low Countries and the obstacles confronting any attack on such a strongly fortified and defended city, Spinola launched his Breda campaign, rapidly blocking the city's defences and driving off a Dutch relief army under the leadership of Maurice of Nassau that had attempted to cut off the Spanish army's access to supplies.
+
+The siege of Breda is considered Spinola's greatest success and one of Spain's last major victories in the Eighty Years' War. The siege was part of a plan to isolate the Republic from its hinterland, and co-ordinated with Olivare's naval war spearheaded by the Dunkirkers, to economically choke the Dutch Republic. Although political infighting hindered Spinola's freedom of movement, Spain's efforts in the Netherlands continued thereafter.
+
+::: notes
+Once Spinola laid siege to the city, two relief efforts were made, first by the Dutch, then by the British. In the end, the city capitulated to Spinola in an event memorialized in a famous painting.
+
+\<on the next slide\>
+
+This is the surrender at Breda by Velasquez
+
+...describe what you see...
+:::
+
+------------------------------------------------------------------------
+
+![The Surrender at Breda by Velasquez](images/velasquez.jpeg)
+
+------------------------------------------------------------------------
+
+{background-color="black"}
+
+::: notes
+The reason why the Siege of Breda is important is that is restored the pride and reputation of the Spanish Army.
+:::
+
+------------------------------------------------------------------------
+
+## The Siege of Breda
+
+1.  Where is Breda
+    -   *Netherlands*
+2.  Which two wars were going on at this time?
+    -   *Eighty Years War and Thirty Years War*
+3.  Who was the King of Spain in this era?
+    -   *Philip IV*
+4.  What is the name of the painting?
+    -   *The Surrender of Breda*
+5.  Why was the Siege of Breda important?
+    -   *Restored the pride and reputation of the Spanish army.*
+
+------------------------------------------------------------------------
+
+## Curating Attention
+
+Some tips:
+
+1.  Visuals tend to override audio.
+2.  What you omit is as important as what you include.
+3.  Pick 1-3 take-homes and check that everything students see/hear ties back to them.
+
+Did you read this slide or listen to it being read?
+
+------------------------------------------------------------------------
+
+## Take homes from today
+
+Foster **curiosity** with careful questions.
+
+As a teacher, you are a curator of **attention**.
+
+------------------------------------------------------------------------
+
+# The Limits of Working Memory
+
+------------------------------------------------------------------------
+
+<https://www.youtube.com/embed/CgR5mSAGxtA?start=2162>
+
+::: notes
+Felienne Hermans is a scientist working at Leiden University as an associate professor. Her research interest include programming education and spreadsheets.
+
+36:02 - 44:12: Cognitive Load
+
+44:12 - 50:00: Explicit strategies for programming
+:::
+
+## Model of Thinking
+
+![](images/model-of-thinking.jpeg)
+
+------------------------------------------------------------------------
+
+## Working Memory
+
+**Working Memory** holds the information - from the environment and from long term memory - that that you can actively think about. Site of consciousness and awareness.
+
+**Chunking** is the process of compressing several bits of information into a single bit.
+
+```{r}
+```
+
+------------------------------------------------------------------------
+
+## Group Discussion
+
+With your group, come up with a list of **5 strategies** that help students chunk the information to make more room in working memory.
+
+```{r}
+countdown::countdown(minutes = 7, bottom = 0, font_size = "2em")
+```
+
+------------------------------------------------------------------------
+
+## Example from the reading
+
+![](images/himalayan-inns.png)
+
+```{r}
+countdown::countdown(minutes = 1, bottom = 0, font_size = "2em")
+```
+
+::: notes
+Follow up questions:
+
+-   How does this relate to cognitive load?
+
+-   What does this tell us about using world problems?
+:::
+
+------------------------------------------------------------------------
+
+## Example from this class
+
+::: columns
+::: {.column width="50%"}
+![](images/model-of-thinking.jpeg)
+:::
+
+::: {.column width="50%"}
+**Slides vs. Boardwork**
+
+How does board work affect *attention*?
+
+How does it affect *cognitive* load?
+:::
+:::
+
+------------------------------------------------------------------------
+
+## Take homes from today
+
+Foster **curiosity** with careful questions.
+
+As a teacher, you are a curator of **attention**.
+
+Beat the limits of working memory by **chunking**.
+
+------------------------------------------------------------------------
+
+# Concrete Strategies
+
+------------------------------------------------------------------------
+
+## Concrete Strategies
+
+Read through the handout and then with your group share two teaching strategies that you could see yourself using to guide attention and memory.
+
+```{r}
+countdown::countdown(minutes = 8, bottom = 0)
+```
+
+## Take homes from today
+
+Foster **curiosity** with careful questions.
+
+As a teacher, you are a curator of **attention**.
+
+Beat the limits of working memory by **chunking.**
