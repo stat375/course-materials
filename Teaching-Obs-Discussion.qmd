@@ -1,5 +1,5 @@
 ---
-title: "Teaching Observations Discussion"
+title: "Teaching Observations Debrief"
 subtitle: "STAT 375 UC Berkeley"
 logo: "../assets/images/stat-375-hex.png"
 format: 
@@ -14,23 +14,6 @@ execute:
   freeze: auto
 ---
 
-## Agenda
-
-1.  Reflections from Teaching
-2.  Teaching Observation Debrief
-
-## Reflections from Teaching
-
-In your groups take turns sharing:
-
-1.  One thing that went well
-2.  One thing that went poorly
-3.  One thing that you learned
-
-```{r}
-countdown::countdown(minutes = 10, bottom = 0)
-```
-
 # Teaching Observations Debrief
 
 ## **Goals**
@@ -39,7 +22,7 @@ countdown::countdown(minutes = 10, bottom = 0)
 
 -   Venue for discussion about teaching strategies
 
-## Format 
+## Format
 
 ::: nonincremental
 1.  Spend 10 minutes discussing instructor 1's class session.
@@ -48,8 +31,9 @@ countdown::countdown(minutes = 10, bottom = 0)
 
 *Person with a longer first name will be instructor 1.*
 
-## **Debrief Instructor 1**
+## **Debrief Instructor 1**  {.smaller}
 
+::: nonincremental
 1.  Instructor 1
     1.  What was your impression of the class?
 
@@ -65,15 +49,14 @@ countdown::countdown(minutes = 10, bottom = 0)
 
     4.  Share observation form
 
---
-
 3.  Discuss: Instructor takes notes on form
+:::
 
 ```{r}
-countdown::countdown(minutes = 10, bottom = 0, margin = "5%", fontsize = '1em')
+countdown::countdown(minutes = 10, bottom = 0, margin = "5%", font_size = '1em')
 ```
 
-## Debrief Instructor 2
+## Debrief Instructor 2 {.smaller}
 
 ::: nonincremental
 1.  Instructor 2
@@ -90,14 +73,13 @@ countdown::countdown(minutes = 10, bottom = 0, margin = "5%", fontsize = '1em')
     3.  Avoid bland general feedback. Focus on specific and actionable.
 
     4.  Share observation form
-:::
-
---
 
 3.  Discuss: Instructor takes notes on form
 
+:::
+
 ```{r}
-countdown::countdown(minutes = 10, bottom = 0,margin = "5%", fontsize = '1em')
+countdown::countdown(minutes = 10, font_size = '1em')
 ```
 
 ## Large group discussion questions

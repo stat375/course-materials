@@ -1,10 +1,185 @@
 [
   {
-    "objectID": "teaching-as-a-team/plan.html#assignment",
-    "href": "teaching-as-a-team/plan.html#assignment",
+    "objectID": "teaching-as-a-team/slides.html#welcome-to-stat-375",
+    "href": "teaching-as-a-team/slides.html#welcome-to-stat-375",
+    "title": "Teaching as a Team",
+    "section": "Welcome to STAT 375!",
+    "text": "Welcome to STAT 375!\n\nAs you come in, be sure to sign in, then please sit next to people who teach a different sort of class than you."
+  },
+  {
+    "objectID": "teaching-as-a-team/slides.html#agenda",
+    "href": "teaching-as-a-team/slides.html#agenda",
+    "title": "Teaching as a Team",
+    "section": "Agenda",
+    "text": "Agenda\n\nReflections from teaching\nTeaching as a team\nYour role\nMembers of a team at Cal\nTeaming well and not so well\nSuggestions for success\nBreak\nMotivation and Attention"
+  },
+  {
+    "objectID": "teaching-as-a-team/slides.html#reflections-from-teaching",
+    "href": "teaching-as-a-team/slides.html#reflections-from-teaching",
+    "title": "Teaching as a Team",
+    "section": "Reflections from teaching",
+    "text": "Reflections from teaching\nIn your groups, take turns sharing\n\nWhat class you’re teaching\nOne thing that went well this week\nOne thing that went poorly\nOne thing you learned\n\n\n\n\n10:00"
+  },
+  {
+    "objectID": "teaching-as-a-team/slides.html#teaching-as-a-team",
+    "href": "teaching-as-a-team/slides.html#teaching-as-a-team",
+    "title": "Teaching as a Team",
+    "section": "Teaching as a Team",
+    "text": "Teaching as a Team"
+  },
+  {
+    "objectID": "teaching-as-a-team/slides.html#the-role-of-a-gsi-the-gsi-perspective",
+    "href": "teaching-as-a-team/slides.html#the-role-of-a-gsi-the-gsi-perspective",
+    "title": "Teaching as a Team",
+    "section": "The Role of a GSI: The GSI Perspective",
+    "text": "The Role of a GSI: The GSI Perspective\nBeyond facilitating your section, several other roles emerged:\n.pull-left[ Point of contact: Link between student and rest of course]\n.pull-right[ Operations: Course infrastructure, grading]\n.task[ Decide which one of these you most identify with.]"
+  },
+  {
+    "objectID": "teaching-as-a-team/slides.html#discuss",
+    "href": "teaching-as-a-team/slides.html#discuss",
+    "title": "Teaching as a Team",
+    "section": "Discuss",
+    "text": "Discuss\nFind 2-3 other people who tend to view their roles differently and take turns sharing.\n\nYour primary and secondary roles, as you understand them to be.\nWhat two activities you spend the most time doing as part of your role.\nWas there agreement or contrast in how your instructor views your role?\n\n\n\n\n10:00"
+  },
+  {
+    "objectID": "teaching-as-a-team/slides.html#members-of-the-teaching-team-at-cal",
+    "href": "teaching-as-a-team/slides.html#members-of-the-teaching-team-at-cal",
+    "title": "Teaching as a Team",
+    "section": "Members of the Teaching Team at Cal",
+    "text": "Members of the Teaching Team at Cal"
+  },
+  {
+    "objectID": "teaching-as-a-team/slides.html#members-of-the-teaching-team-at-cal-1",
+    "href": "teaching-as-a-team/slides.html#members-of-the-teaching-team-at-cal-1",
+    "title": "Teaching as a Team",
+    "section": "Members of the Teaching Team at Cal",
+    "text": "Members of the Teaching Team at Cal\n\nInstructor\nGSI / uGSI\nReader\nTutor\nAcademic Intern\n\n\nWho fills these positions? What is their role?"
+  },
+  {
+    "objectID": "teaching-as-a-team/slides.html#instructor",
+    "href": "teaching-as-a-team/slides.html#instructor",
+    "title": "Teaching as a Team",
+    "section": "Instructor",
+    "text": "Instructor\nWho are they? - Short and long term lecturers, members of the academic senate (professors), adjunct faculty.\nRole - Responsible for the content and conduct of a course. .pull-left[ - Curriculum: what is taught - Pedagogy: how it’s taught - Course design, policies - Instruction - Course infrastructure]\n.pull-right[ - Guiding GSIs - Grading and feedback - DSP accomodations - Academic misconduct - Entering grades]"
+  },
+  {
+    "objectID": "teaching-as-a-team/slides.html#under-graduate-student-instructor",
+    "href": "teaching-as-a-team/slides.html#under-graduate-student-instructor",
+    "title": "Teaching as a Team",
+    "section": "(under) Graduate Student Instructor",
+    "text": "(under) Graduate Student Instructor\nWho are they? - Graduate students or undergraduate students when qualified graduate students cannot be found. May come from different departments.\nRole UC identifies three types.\n\nRole (a): teaches secondary sections of a larger course. This is the most common type of GSI position.\nRole (b): functions as the instructor of a course in which the curriculum is prescribed, but is responsible for selecting readings, for how the material is presented, and for grading student work. Ex. include language, studio, or Reading and Composition courses.\nRole (c): Head GSI who functions as coordinator of other GSIs and/or performs other teaching or administrative duties.\n\nGSI duties identified by faculty at Pitt:"
+  },
+  {
+    "objectID": "teaching-as-a-team/slides.html#the-role-of-a-gsi-the-instructor-perspective",
+    "href": "teaching-as-a-team/slides.html#the-role-of-a-gsi-the-instructor-perspective",
+    "title": "Teaching as a Team",
+    "section": "The Role of a GSI: The Instructor Perspective",
+    "text": "The Role of a GSI: The Instructor Perspective\n.pull-left[ - “core and main engine of the course” - “create quiz/exam questions” - “in charge of leading section” - “empathize with students”] .pull-right[ - “instructors’ eyes and ears” - “timely, fair and accurate grading of problem sets” - “My jobs are similar to yours except that I am giving lectures not lab sessions” - No response (most common!)]"
+  },
+  {
+    "objectID": "teaching-as-a-team/slides.html#reader",
+    "href": "teaching-as-a-team/slides.html#reader",
+    "title": "Teaching as a Team",
+    "section": "Reader",
+    "text": "Reader\nWho are they? - Usually be graduate students, but qualified undergrads may be employed when grad students are not available. Professional readers, not enrolled as students, may be employed to meet special needs.\nRole - Render diverse services as course assistants, which will normally include the grading of student papers and examinations. Duties might also include attendance at lectures, office hours, consultation with the instructor, and other course-related duties. Readers may not perform teaching duties."
+  },
+  {
+    "objectID": "teaching-as-a-team/slides.html#tutor",
+    "href": "teaching-as-a-team/slides.html#tutor",
+    "title": "Teaching as a Team",
+    "section": "Tutor",
+    "text": "Tutor\nWho are they? - Usually graduate students, but qualified undergrads may be employed when grad students are not available.\nRole - Render individual or group instructional activities in support of regular academic programs. Under supervision, a Tutor’s duties may include individual tutoring sessions, group tutoring sessions, presentation at workshops, and other duties as assigned. Tutors do not perform teaching duties assigned to the GSI series."
+  },
+  {
+    "objectID": "teaching-as-a-team/slides.html#academic-intern",
+    "href": "teaching-as-a-team/slides.html#academic-intern",
+    "title": "Teaching as a Team",
+    "section": "Academic Intern",
+    "text": "Academic Intern\nWho are they? - Undergraduate students enrolled in a 1 unit course.\nRole - Provide support for students in discussion sections, labs, or office hours, supervised by (U)GSIs. Time commitment is 3 hours per week on average. AIs do not receive financial compensation. - Important part of pipeline for (u)GSIs."
+  },
+  {
+    "objectID": "teaching-as-a-team/slides.html#teaching-as-a-team-well-and-poorly",
+    "href": "teaching-as-a-team/slides.html#teaching-as-a-team-well-and-poorly",
+    "title": "Teaching as a Team",
+    "section": "Teaching as a Team: Well and Poorly",
+    "text": "Teaching as a Team: Well and Poorly"
+  },
+  {
+    "objectID": "teaching-as-a-team/slides.html#teaching-as-a-team-well",
+    "href": "teaching-as-a-team/slides.html#teaching-as-a-team-well",
+    "title": "Teaching as a Team",
+    "section": "Teaching as a Team: Well",
+    "text": "Teaching as a Team: Well\nConsider a specific aspect of or incident in your working relationship with your teaching team that has gone well.\n\nThink: write a short description on the padlet.\nPair: share your experience with a partner and discuss.\nShare: whole class discussion."
+  },
+  {
+    "objectID": "teaching-as-a-team/slides.html#teaching-as-a-team-well-1",
+    "href": "teaching-as-a-team/slides.html#teaching-as-a-team-well-1",
+    "title": "Teaching as a Team",
+    "section": "Teaching as a Team: Well",
+    "text": "Teaching as a Team: Well\nConsider a specific aspect of or incident in your working relationship with your teaching team that has gone well.\n\nThink: write a short description on the padlet.\n\n\n\n\n\n01:30"
+  },
+  {
+    "objectID": "teaching-as-a-team/slides.html#teaching-as-a-team-well-2",
+    "href": "teaching-as-a-team/slides.html#teaching-as-a-team-well-2",
+    "title": "Teaching as a Team",
+    "section": "Teaching as a Team: Well",
+    "text": "Teaching as a Team: Well\nConsider a specific aspect of or incident in your working relationship with your teaching team that has gone well.\n\nThink: write a short description on the padlet.\nPair: share your experience with a partner and discuss.\nShare: whole class discussion."
+  },
+  {
+    "objectID": "teaching-as-a-team/slides.html#teaching-as-a-team-poorly",
+    "href": "teaching-as-a-team/slides.html#teaching-as-a-team-poorly",
+    "title": "Teaching as a Team",
+    "section": "Teaching as a Team: Poorly",
+    "text": "Teaching as a Team: Poorly\nConsider a specific aspect of or incident in your working relationship with your teaching team that has gone poorly or could be improved.\n\nThink: write a short description on the padlet.\nPair: share your experience with a partner and discuss.\nShare: whole class discussion."
+  },
+  {
+    "objectID": "teaching-as-a-team/slides.html#teaching-as-a-team-poorly-1",
+    "href": "teaching-as-a-team/slides.html#teaching-as-a-team-poorly-1",
+    "title": "Teaching as a Team",
+    "section": "Teaching as a Team: Poorly",
+    "text": "Teaching as a Team: Poorly\nConsider a specific aspect of or incident in your working relationship with your teaching team that has gone poorly or could be improved.\n\nThink: write a short description on the padlet.\n\n\n\n\n\n01:30"
+  },
+  {
+    "objectID": "teaching-as-a-team/slides.html#teaching-as-a-team-poorly-2",
+    "href": "teaching-as-a-team/slides.html#teaching-as-a-team-poorly-2",
+    "title": "Teaching as a Team",
+    "section": "Teaching as a Team: Poorly",
+    "text": "Teaching as a Team: Poorly\nConsider a specific aspect of or incident in your working relationship with your teaching team that has gone poorly or could be improved.\n\nThink: write a short description on the padlet.\nPair: share your experience with a partner and discuss.\nShare: whole class discussion."
+  },
+  {
+    "objectID": "teaching-as-a-team/slides.html#strategies-for-success",
+    "href": "teaching-as-a-team/slides.html#strategies-for-success",
+    "title": "Teaching as a Team",
+    "section": "Strategies for Success",
+    "text": "Strategies for Success"
+  },
+  {
+    "objectID": "teaching-as-a-team/slides.html#suggestions-communication",
+    "href": "teaching-as-a-team/slides.html#suggestions-communication",
+    "title": "Teaching as a Team",
+    "section": "Suggestions: Communication",
+    "text": "Suggestions: Communication\n\nDon’t be afraid to ask questions!\nReach out to other staff if you can’t complete a task or don’t know how\nRegularly check in with your AIs/tutors/graders\n\nEnsure that you yourself are approachable as well\n\nBut don’t forget to set boundaries!"
+  },
+  {
+    "objectID": "teaching-as-a-team/slides.html#suggestions-structure",
+    "href": "teaching-as-a-team/slides.html#suggestions-structure",
+    "title": "Teaching as a Team",
+    "section": "Suggestions: Structure",
+    "text": "Suggestions: Structure\n\nResponsibilities of team members\n\nBe sure they’re mutually understood\nTimelines can help\n\nMeetings Inherit existing power dynamics\n\nMake an agenda\nAssign roles"
+  },
+  {
+    "objectID": "teaching-as-a-team/slides.html#where-to-seek-help",
+    "href": "teaching-as-a-team/slides.html#where-to-seek-help",
+    "title": "Teaching as a Team",
+    "section": "Where to seek help",
+    "text": "Where to seek help\n\nHead TA\nInstructor\nGSI Advisor\nDepartment Chair\nCampus Ombuds Office"
+  },
+  {
+    "objectID": "teaching-as-a-team/plan.html",
+    "href": "teaching-as-a-team/plan.html",
     "title": "Week 2: Teaching as a Team",
-    "section": "Assignment",
-    "text": "Assignment\n\nReadings\nRead the first chapter from, Why Students Don’t Like School by Daniel T. Willingham, posted to bCourses.\nAfterwards, please post to Ed your thoughts (a paragraph or two) on the reading selection. The questions below might be helpful to spur your thinking.\nPossible questions to address: 1. Does this reading resonate with your own experience or contrast with it? In what ways? 2. What are a few critiques one would make of the arguments presented? 3. How do the ideas present inform how you might change your teaching?\nIn place of posting a new comment, you can also reply to your fellow students’ comments. Any engagement and input is welcome as long as it’s original and respectful.\n\n\nReflections\nThe topic for next class is “Teaching as a member of a team”, so in preparation, please reflect on the role you play as a (u)GSI in a paragraph for two for the question below. The second question is meant to be answered by your instructor, so please ask them for a few sentences about how they see the role of the GSI in their class.\nNote: if you know of other students in 375 that are also GSIing for the same class, coordinate your question so the instructor only has to answer once (and then send that answer around to your fellow GSIs). Also, if the instructor has spelled this out previous to you verbally or in writing, you’re welcome to transcribe that.\nIf possible, write your answer to 1 before hearing the instructor’s response in 2.\n\n1. From the GSI\nWhat do you think your role is as a GSI in the broader context of the course? What responsibilities do you have to your students? What responsibilities do you have towards your instructor?\n\n\n2. From the Instructor\nWhat do you see as the role of GSI in the broader context of the course? What responsibilities do they have to the students? What responsibilities do you have towards you?"
+    "section": "",
+    "text": "Read the first chapter from, Why Students Don’t Like School by Daniel T. Willingham, posted to bCourses.\nAfterwards, please post to Ed your thoughts (a paragraph or two) on the reading selection. The questions below might be helpful to spur your thinking.\nPossible questions to address: 1. Does this reading resonate with your own experience or contrast with it? In what ways? 2. What are a few critiques one would make of the arguments presented? 3. How do the ideas present inform how you might change your teaching?\nIn place of posting a new comment, you can also reply to your fellow students’ comments. Any engagement and input is welcome as long as it’s original and respectful.\n\n\n\nThe topic for next class is “Teaching as a member of a team”, so in preparation, please reflect on the role you play as a (u)GSI in a paragraph for two for the question below. The second question is meant to be answered by your instructor, so please ask them for a few sentences about how they see the role of the GSI in their class.\nNote: if you know of other students in 375 that are also GSIing for the same class, coordinate your question so the instructor only has to answer once (and then send that answer around to your fellow GSIs). Also, if the instructor has spelled this out previous to you verbally or in writing, you’re welcome to transcribe that.\nIf possible, write your answer to 1 before hearing the instructor’s response in 2.\n\n\nWhat do you think your role is as a GSI in the broader context of the course? What responsibilities do you have to your students? What responsibilities do you have towards your instructor?\n\n\n\nWhat do you see as the role of GSI in the broader context of the course? What responsibilities do they have to the students? What responsibilities do you have towards you?"
   },
   {
     "objectID": "teaching-as-a-team/plan.html#class-session",
@@ -14,25 +189,319 @@
     "text": "Class Session\nThe slides used in the class session are linked below.\n🖥Teaching as a Team"
   },
   {
+    "objectID": "teaching-obs-discussions/Teaching-Obs-Discussion.html#agenda",
+    "href": "teaching-obs-discussions/Teaching-Obs-Discussion.html#agenda",
+    "title": "Teaching Observations Discussion",
+    "section": "Agenda",
+    "text": "Agenda\n\nReflections from Teaching\nTeaching Observation Debrief"
+  },
+  {
+    "objectID": "teaching-obs-discussions/Teaching-Obs-Discussion.html#reflections-from-teaching",
+    "href": "teaching-obs-discussions/Teaching-Obs-Discussion.html#reflections-from-teaching",
+    "title": "Teaching Observations Discussion",
+    "section": "Reflections from Teaching",
+    "text": "Reflections from Teaching\nIn your groups take turns sharing:\n\nOne thing that went well\nOne thing that went poorly\nOne thing that you learned\n\n\n\n\n10:00"
+  },
+  {
+    "objectID": "teaching-obs-discussions/Teaching-Obs-Discussion.html#goals",
+    "href": "teaching-obs-discussions/Teaching-Obs-Discussion.html#goals",
+    "title": "Teaching Observations Discussion",
+    "section": "Goals",
+    "text": "Goals\n\nProvide feedback from observed class\nVenue for discussion about teaching strategies"
+  },
+  {
+    "objectID": "teaching-obs-discussions/Teaching-Obs-Discussion.html#format",
+    "href": "teaching-obs-discussions/Teaching-Obs-Discussion.html#format",
+    "title": "Teaching Observations Discussion",
+    "section": "Format",
+    "text": "Format\n\n\nSpend 10 minutes discussing instructor 1’s class session.\nSpend 10 minutes discussing instructor 2’s class session.\n\n\nPerson with a longer first name will be instructor 1."
+  },
+  {
+    "objectID": "teaching-obs-discussions/Teaching-Obs-Discussion.html#debrief-instructor-1",
+    "href": "teaching-obs-discussions/Teaching-Obs-Discussion.html#debrief-instructor-1",
+    "title": "Teaching Observations Discussion",
+    "section": "Debrief Instructor 1",
+    "text": "Debrief Instructor 1\n\nInstructor 1\n\nWhat was your impression of the class?\nWhat were the strengths?\nWhere are you seeking suggestions for improvement?"
+  },
+  {
+    "objectID": "teaching-obs-discussions/Teaching-Obs-Discussion.html#debrief-instructor-2",
+    "href": "teaching-obs-discussions/Teaching-Obs-Discussion.html#debrief-instructor-2",
+    "title": "Teaching Observations Discussion",
+    "section": "Debrief Instructor 2",
+    "text": "Debrief Instructor 2\n\n\nInstructor 2\n\nWhat was your impression of the class?\nWhat were the strengths?\nWhere are you seeking suggestions for improvement"
+  },
+  {
+    "objectID": "teaching-obs-discussions/Teaching-Obs-Discussion.html#large-group-discussion-questions",
+    "href": "teaching-obs-discussions/Teaching-Obs-Discussion.html#large-group-discussion-questions",
+    "title": "Teaching Observations Discussion",
+    "section": "Large group discussion questions",
+    "text": "Large group discussion questions\n\n\nAs the teacher, what was the most useful part of this process for you?\nAs the observer, what would you like to improve for next time?"
+  },
+  {
+    "objectID": "teaching-obs-discussions/Teaching-Obs-Discussion.html#last-step",
+    "href": "teaching-obs-discussions/Teaching-Obs-Discussion.html#last-step",
+    "title": "Teaching Observations Discussion",
+    "section": "Last step",
+    "text": "Last step\nTake your observation form with notes and type up reflection as part of next assignment to be posted to bCourses."
+  },
+  {
+    "objectID": "Lesson-Planning.html#agenda",
+    "href": "Lesson-Planning.html#agenda",
+    "title": "Lesson Planning",
+    "section": "Agenda",
+    "text": "Agenda\n\n\nReflections from teaching\nFinishing up Active Learning lesson\nA method for reflective teaching\nPractice: the 5E learning cycle\nLesson plan examples from Cal"
+  },
+  {
+    "objectID": "Lesson-Planning.html#eric-mazur-peer-instruction",
+    "href": "Lesson-Planning.html#eric-mazur-peer-instruction",
+    "title": "Lesson Planning",
+    "section": "Eric Mazur: Peer Instruction",
+    "text": "Eric Mazur: Peer Instruction"
+  },
+  {
+    "objectID": "Lesson-Planning.html#peer-instruction-protocol",
+    "href": "Lesson-Planning.html#peer-instruction-protocol",
+    "title": "Lesson Planning",
+    "section": "Peer Instruction Protocol",
+    "text": "Peer Instruction Protocol\n\nContext: provide new model/language for familiar phenomenon.\nQuestion: calibrated to be in the sweet spot of challenging but not too challenging.\nPoll (1 min): students wrestle individually, commit to answer, prepare to explain.\nDiscuss (4 min): explaining can air misunderstanding, peers can be good teachers.\nRe-poll (30 sec) : groups commits to answer, prepares to explain, feedback to instructor.\nShare: air common misunderstandings.\nExplain: resolve tension in conflicting answers."
+  },
+  {
+    "objectID": "Lesson-Planning.html#active-learning-protocols",
+    "href": "Lesson-Planning.html#active-learning-protocols",
+    "title": "Lesson Planning",
+    "section": "Active learning protocols",
+    "text": "Active learning protocols\n\nPeer Instruction (Mazur, 1997)\nThink-Pair-Share"
+  },
+  {
+    "objectID": "Lesson-Planning.html#think-pair-share-protocol",
+    "href": "Lesson-Planning.html#think-pair-share-protocol",
+    "title": "Lesson Planning",
+    "section": "Think-Pair-Share Protocol",
+    "text": "Think-Pair-Share Protocol\n\nThink: give students ~1 minute to consider the question and articulate their thinking (usually in writing).\nPair: students take turns explaining their thinking to a peer.\nShare: pairs share their thinking with the class to air correct and incorrect conceptions."
+  },
+  {
+    "objectID": "Lesson-Planning.html#example-critiquing-the-evidence",
+    "href": "Lesson-Planning.html#example-critiquing-the-evidence",
+    "title": "Lesson Planning",
+    "section": "Example: Critiquing the evidence",
+    "text": "Example: Critiquing the evidence\n\nThink: Take a moment to write down three critiques of this line of evidence, or three questions that you have about its efficacy.\nPair: Discuss your critiques with a neighbor.\nShare: Share your discussion with the class."
+  },
+  {
+    "objectID": "Lesson-Planning.html#think-pair-share-protocol-1",
+    "href": "Lesson-Planning.html#think-pair-share-protocol-1",
+    "title": "Lesson Planning",
+    "section": "Think-Pair-Share Protocol",
+    "text": "Think-Pair-Share Protocol\n\n\nThink: give students ~1 minute to consider the question and articulate their thinking (usually in writing).\nPair: students take turns explaining their thinking to a peer.\nShare: pairs share their thinking with the class to air correct and incorrect conceptions.\n\n\nHow can this fail?"
+  },
+  {
+    "objectID": "Lesson-Planning.html#active-learning-protocols-1",
+    "href": "Lesson-Planning.html#active-learning-protocols-1",
+    "title": "Lesson Planning",
+    "section": "Active learning protocols",
+    "text": "Active learning protocols\n\n\nPeer Instruction (Mazur, 1997)\nThink-pair-share\nPurposeful pause"
+  },
+  {
+    "objectID": "Lesson-Planning.html#purposeful-pause",
+    "href": "Lesson-Planning.html#purposeful-pause",
+    "title": "Lesson Planning",
+    "section": "Purposeful pause",
+    "text": "Purposeful pause\nInstructor pauses every ~15 minutes during lecture and asks students to:\n\nTake a couple of minutes to summarize in writing what they just learned and jot down any questions or confusions or.\nTurn to a neighbor and discuss and rework their notes in pairs, including identifying questions or confusions."
+  },
+  {
+    "objectID": "Lesson-Planning.html#active-learning-protocols-2",
+    "href": "Lesson-Planning.html#active-learning-protocols-2",
+    "title": "Lesson Planning",
+    "section": "Active learning protocols",
+    "text": "Active learning protocols\n\n\nPeer Instruction (Mazur, 1997)\nThink-pair-share\nPurposeful pause\nQuick writes"
+  },
+  {
+    "objectID": "Lesson-Planning.html#quick-writes",
+    "href": "Lesson-Planning.html#quick-writes",
+    "title": "Lesson Planning",
+    "section": "Quick writes",
+    "text": "Quick writes\nInstructor poses a prompt that students respond to in writing for ~5 minutes or less.\n\nprompt might be a conceptual question, or metacognitive/reflective(link is external) question, including asking students to identify the most important takeaway or a point of confusion.\ncan be implemented at many points during a lecture, combined with small- or large-group discussion, and may be collected to inform future class sessions\nif graded, points are typically awarded for completion/participation."
+  },
+  {
+    "objectID": "Lesson-Planning.html#a-method-for-reflective-teaching-1",
+    "href": "Lesson-Planning.html#a-method-for-reflective-teaching-1",
+    "title": "Lesson Planning",
+    "section": "A Method for Reflective Teaching",
+    "text": "A Method for Reflective Teaching\n\nYou are tasked with teaching someone else how to make a peanut butter and jelly sandwhich\n\nHow would you start? What would you do first?\n\n\n\n\n01:00\n\n\n\n\nEvan-Amos, Public domain, via Wikimedia Commons"
+  },
+  {
+    "objectID": "Lesson-Planning.html#breaking-it-down",
+    "href": "Lesson-Planning.html#breaking-it-down",
+    "title": "Lesson Planning",
+    "section": "Breaking it down",
+    "text": "Breaking it down\nThink about the last class session you taught.\n\n\nIdentify the distinct pieces of this session (e.g. gave a quiz, mini-lecture on topic X, review solution to problem Y)\nRecord each of these pieces on a post-it note and lay them out in front of you in the order they were taught."
+  },
+  {
+    "objectID": "Lesson-Planning.html#example",
+    "href": "Lesson-Planning.html#example",
+    "title": "Lesson Planning",
+    "section": "Example",
+    "text": "Example"
+  },
+  {
+    "objectID": "Lesson-Planning.html#breaking-it-down-1",
+    "href": "Lesson-Planning.html#breaking-it-down-1",
+    "title": "Lesson Planning",
+    "section": "Breaking it down",
+    "text": "Breaking it down\nThink about the last class session you taught.\n\n\nIdentify the distinct pieces of this session (e.g. gave a quiz, mini-lecture on topic X, review solution to problem Y)\nRecord each of these pieces on a post-it note and lay them out in front of you in the order they were taught.\n\n\n\n\n\n05:00"
+  },
+  {
+    "objectID": "Lesson-Planning.html#if-learning-is-about-changing-the-brain-then-students",
+    "href": "Lesson-Planning.html#if-learning-is-about-changing-the-brain-then-students",
+    "title": "Lesson Planning",
+    "section": "If learning is about changing the brain, then students …",
+    "text": "If learning is about changing the brain, then students …\n\nmust be awake, attending, and interested.\nneed to activate related knowledg/memories/circuits so they can connect these to new understandings.\nare only then likely ready for constructing new knowledge/circuits.\nneed opportunities to practice using new ideas in new contexts.\nneed opportunities to self-assess their understanding and identify confusions."
+  },
+  {
+    "objectID": "Lesson-Planning.html#one-method-the-5e-learning-cycle-model",
+    "href": "Lesson-Planning.html#one-method-the-5e-learning-cycle-model",
+    "title": "Lesson Planning",
+    "section": "One Method: the 5E Learning Cycle Model",
+    "text": "One Method: the 5E Learning Cycle Model\n\nEngage\nExplore\nExplain\nElaborate\nEvaluate"
+  },
+  {
+    "objectID": "Lesson-Planning.html#if-learning-is-about-changing-the-brain-then-students-1",
+    "href": "Lesson-Planning.html#if-learning-is-about-changing-the-brain-then-students-1",
+    "title": "Lesson Planning",
+    "section": "If learning is about changing the brain, then students …",
+    "text": "If learning is about changing the brain, then students …\n\nEngage: must be awake, attending, and interested.\nExplore: need to activate related knowledge/memories/circuits so they can connect these to new understandings.\nExplain: are only then likely ready for constructing new knowledge/circuits.\nElaborate: need opportunities to practice using new ideas in new contexts.\nEvaluate: need opportunities to self-assess their understanding and identify confusions."
+  },
+  {
+    "objectID": "Lesson-Planning.html#section",
+    "href": "Lesson-Planning.html#section",
+    "title": "Lesson Planning",
+    "section": "",
+    "text": "In pairs, take turns sharing each piece of your lesson and classifying them by their E. Write the E on the top of each post-it.\n\n\n\n\n05:00"
+  },
+  {
+    "objectID": "Lesson-Planning.html#planning-with-5e-learning-cycle-model",
+    "href": "Lesson-Planning.html#planning-with-5e-learning-cycle-model",
+    "title": "Lesson Planning",
+    "section": "Planning with 5E Learning Cycle Model",
+    "text": "Planning with 5E Learning Cycle Model"
+  },
+  {
+    "objectID": "Lesson-Planning.html#planning-with-5e-learning-cycle-model-1",
+    "href": "Lesson-Planning.html#planning-with-5e-learning-cycle-model-1",
+    "title": "Lesson Planning",
+    "section": "Planning with 5E Learning Cycle Model",
+    "text": "Planning with 5E Learning Cycle Model"
+  },
+  {
+    "objectID": "Lesson-Planning.html#planning-with-5e",
+    "href": "Lesson-Planning.html#planning-with-5e",
+    "title": "Lesson Planning",
+    "section": "Planning with 5E",
+    "text": "Planning with 5E\nThis is your chance to practice rebuilding your lesson using this particular planning structure.\n\nIn pairs, work to fill out both pages to redesign one person’s lesson according to the 5E framework. After 10 minutes, switch over and redesign the other person’s lesson\n\n\n\n\n20:00"
+  },
+  {
+    "objectID": "Lesson-Planning.html#questions",
+    "href": "Lesson-Planning.html#questions",
+    "title": "Lesson Planning",
+    "section": "Questions",
+    "text": "Questions\n\n\nWhich components of the 5E cycle were most dominant in your lesson?\nWhich component was the most difficult to fit in to your lesson?\nMost courses have several elements: lecture, lab, discussion, a class forum. Are there elements that are more natural fits for each component?\nWhat do you like about the 5E framework?\nWhat do you think is missing, misguided, or challenging about the 5E framework?"
+  },
+  {
+    "objectID": "Lesson-Planning.html#lesson-plan-examples-from-cal-1",
+    "href": "Lesson-Planning.html#lesson-plan-examples-from-cal-1",
+    "title": "Lesson Planning",
+    "section": "Lesson Plan Examples from Cal",
+    "text": "Lesson Plan Examples from Cal"
+  },
+  {
+    "objectID": "Lesson-Planning.html#lesson-plan-examples-from-cal-2",
+    "href": "Lesson-Planning.html#lesson-plan-examples-from-cal-2",
+    "title": "Lesson Planning",
+    "section": "Lesson Plan Examples from Cal",
+    "text": "Lesson Plan Examples from Cal"
+  },
+  {
+    "objectID": "Lesson-Planning.html#lesson-plan-examples-from-cal-3",
+    "href": "Lesson-Planning.html#lesson-plan-examples-from-cal-3",
+    "title": "Lesson Planning",
+    "section": "Lesson Plan Examples from Cal",
+    "text": "Lesson Plan Examples from Cal"
+  },
+  {
+    "objectID": "Lesson-Planning.html#lesson-plan-examples-from-cal-4",
+    "href": "Lesson-Planning.html#lesson-plan-examples-from-cal-4",
+    "title": "Lesson Planning",
+    "section": "Lesson Plan Examples from Cal",
+    "text": "Lesson Plan Examples from Cal"
+  },
+  {
+    "objectID": "Lesson-Planning.html#strategies-inspired-by-the-5e-model",
+    "href": "Lesson-Planning.html#strategies-inspired-by-the-5e-model",
+    "title": "Lesson Planning",
+    "section": "Strategies inspired by the 5E model",
+    "text": "Strategies inspired by the 5E model\nEvery GSI is operating within different constraints. Start small. Try changing just one thing.\n\nStart your class with something that engages students and elicits prior knowledge. You could combine this with an icebreaker, check in question to keep it casual and make it a routine.\nAllow for exploration before you explain or give mini-lectures. Spend time thinking about strategies to get students to collaborate and share their thoughts with others and the class.\nCollect some form of assessment (informal is ok!) from your students every class. The middle of the semester is approaching (crazy!), that’s a natural time to send a feedback form."
+  },
+  {
+    "objectID": "Lesson-Planning.html#references",
+    "href": "Lesson-Planning.html#references",
+    "title": "Lesson Planning",
+    "section": "References",
+    "text": "References\nThis class session is adapted from:\nPickett, Sarah and Marisella Rodriguez. (July 7, 2021). What Comes First? How We Can (Re)Order What We Teach to Align with How People Learn. Center for Teaching and Learning, University of California, Berkeley. Campus-wide workshop."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "STAT 375: Teaching Statistics and Data Science",
     "section": "",
-    "text": "The primary goal of this course is to help first-time GSI appointments become more confident, efficient, and effective teachers. It aims to build in students a curiosity to persistently question their practice: Why am I teaching this particular topic? What is the most important thing that my students learn? How do I know if my students have learned it? Why have I chosen to teach it in the this manner? Why are certain students engaged and succeeding and others not?\nThere are three integral elements to this course. In person class meetings are the core of the experience, when you will encounter new ideas and discuss them in the context of your current teaching. Weekly assignments are an opportunity to reflect on the ideas discussed in class as well as readings. Teaching observations will occur twice during the semester and give you the opportunity to observe a different classroom environment than your own and receive feedback about your own teaching."
+    "text": "There are three integral elements to this course. In person class meetings are the core of the experience, when you will encounter new ideas and discuss them in the context of your current teaching. Weekly assignments are an opportunity to reflect on the ideas discussed in class as well as readings. Teaching observations will occur twice during the semester and give you the opportunity to observe a different classroom environment than your own and receive feedback about your own teaching."
   },
   {
-    "objectID": "welcome-to-class/slides.html#announcements",
-    "href": "welcome-to-class/slides.html#announcements",
-    "title": "Welcome to Class",
-    "section": "Announcements",
-    "text": "Announcements\n\nNew on the course website: FAQ\nNew communication tool: Slack\n\nFind the invite link in your inbox / on Sakai announcements\nUse #general for questions, #random for random 🤪\nUse code formatting for for questions involving code (see Course FAQ for a demo video)\n\nMy office hours: All virtual for now, hope to move 1 hour / week to in person later in the semester"
+    "objectID": "teaching-observations/teaching-observations.html#while-youre-waiting",
+    "href": "teaching-observations/teaching-observations.html#while-youre-waiting",
+    "title": "Teaching Observations",
+    "section": "While you’re waiting",
+    "text": "While you’re waiting\nPlease sit in pairs with someone who is teaching as similar a class to yours as possible."
   },
   {
-    "objectID": "welcome-to-class/slides.html#hybrid-teaching",
-    "href": "welcome-to-class/slides.html#hybrid-teaching",
-    "title": "Welcome to Class",
-    "section": "Hybrid teaching",
-    "text": "Hybrid teaching\n\nLectures:\n\nIn person as long as university says so (and I don’t have COVID)\nIf you can’t be in class (and you’re well enough to follow along), watch live (or the recording later) on Panopto\nWatching live and have questions? Post on Slack!\nIn class and see someone ask a question on Slack? Please raise it to me!\n\nLabs:\n\nNot live streamed / recorded\nLab 2 (next Monday) - individual\nLab 3 onwards - in teams, if teammates are in isolation, set up team Zoom calls"
+    "objectID": "teaching-observations/teaching-observations.html#agenda",
+    "href": "teaching-observations/teaching-observations.html#agenda",
+    "title": "Teaching Observations",
+    "section": "Agenda",
+    "text": "Agenda\n\nThe Observation Cycle:\n\nGuest: Elisa Stone, Director, CalTeach\n\nPractice: Observing a lesson"
+  },
+  {
+    "objectID": "teaching-observations/teaching-observations.html#observing-a-lesson",
+    "href": "teaching-observations/teaching-observations.html#observing-a-lesson",
+    "title": "Teaching Observations",
+    "section": "Observing a Lesson",
+    "text": "Observing a Lesson\nI will give a 20 minute lesson. You will have dual roles: student and observer.\nAs an observer\n\nPlease take objective notes about what happens in during the lesson: what I do, what I say, and how students in the class respond.\nRefrain from making judgements.\nPeriodically note the time at which various elements occur."
+  },
+  {
+    "objectID": "teaching-observations/teaching-observations.html#peer-observations",
+    "href": "teaching-observations/teaching-observations.html#peer-observations",
+    "title": "Teaching Observations",
+    "section": "Peer Observations",
+    "text": "Peer Observations\n\nMeet your partner and decide on times when each of you will observe one anothers’ class.\nShare which element of teaching you’d each like your observer to focus on (e.g. timing, clear boardwork, students engagement)\nObserve one another and take notes guided by the observation form.\nDebrief your observations on 4/4 in class.\n\n\n\nPlease do 1-2 in pairs and both partners enter your information in the google form: https://forms.gle/FWWNLFpnr6ciyE8B9"
+  },
+  {
+    "objectID": "welcome-to-class/slides.html#agenda",
+    "href": "welcome-to-class/slides.html#agenda",
+    "title": "Teaching Statistics and Data Science",
+    "section": "Agenda",
+    "text": "Agenda\n\nIntroductions\nCourse Structure\nCommunity Standards\nAsking Why\nBreak\nGSI Panel"
+  },
+  {
+    "objectID": "welcome-to-class/slides.html#section",
+    "href": "welcome-to-class/slides.html#section",
+    "title": "Teaching Statistics and Data Science",
+    "section": "",
+    "text": "What worked? What didn’t? How can we change it?\n\n::: {.column width = “50%”} ### Meet your group - What was the goal? - How big should the groups be? - Which questions?Introductions\n\nHow personal should you be?\n\n\n::: {.column width = “50%”} ### Syllabus - What were your main takeaways? - How else could this information be presented?\nCommunity Standards\n\nWhat was the feel of the group discussion?\nWas everyone participating? :::\n\n::::"
+  },
+  {
+    "objectID": "welcome-to-class/plan.html",
+    "href": "welcome-to-class/plan.html",
+    "title": "Week 1: Welcome to Class",
+    "section": "",
+    "text": "Important\n\n\n\nClasses are virtual this week. Find Zoom links here.\nThere are no assignments prior to our first class meeting."
   },
   {
     "objectID": "welcome-to-class/plan.html#class-session",
@@ -42,11 +511,74 @@
     "text": "Class Session\nThe slides used in the class session are linked below.\n🖥Welcome to Class"
   },
   {
-    "objectID": "syllabus.html#course-info",
-    "href": "syllabus.html#course-info",
+    "objectID": "How-We-Think.html#while-youre-waiting",
+    "href": "How-We-Think.html#while-youre-waiting",
+    "title": "How We Think",
+    "section": "While you’re waiting",
+    "text": "While you’re waiting\nPlease get into groups of 3-4 and introduce yourselves if there is someone you don’t know."
+  },
+  {
+    "objectID": "How-We-Think.html#agenda",
+    "href": "How-We-Think.html#agenda",
+    "title": "How We Think",
+    "section": "Agenda",
+    "text": "Agenda\n\nReflections from teaching\nCurating attention\nThe limits of working memory\nConcrete strategies\nMaking long-term memories"
+  },
+  {
+    "objectID": "How-We-Think.html#reflections-from-learning-1",
+    "href": "How-We-Think.html#reflections-from-learning-1",
+    "title": "How We Think",
+    "section": "Reflections from learning",
+    "text": "Reflections from learning\nTake a moment and jot down an example of a course that you took / lesson that you participated in that ignited your curiosity. Write down another example of a course / lesson where you were supremely incurious / disinterested / bored / disengaged.\nWhat characteristics do identify in these two courses? Is your experience consistent with Willingham’s argument that curiosity is fostered through appropriately challenging questions?\n\n\n\n01:00"
+  },
+  {
+    "objectID": "How-We-Think.html#model-of-thinking",
+    "href": "How-We-Think.html#model-of-thinking",
+    "title": "How We Think",
+    "section": "Model of Thinking",
+    "text": "Model of Thinking\ninclude_graphics(“photos/model-of-thinking.jpeg”) .cite[Source: Dan Willingham]"
+  },
+  {
+    "objectID": "How-We-Think.html#attention",
+    "href": "How-We-Think.html#attention",
+    "title": "How We Think",
+    "section": "Attention",
+    "text": "Attention\nAttention determines which aspects of our environment enter short term memory."
+  },
+  {
+    "objectID": "How-We-Think.html#class-questions",
+    "href": "How-We-Think.html#class-questions",
+    "title": "How We Think",
+    "section": "Class Questions",
+    "text": "Class Questions\n\nAs a student, when / why have you become inattentive in class?\nAs a teacher, when / why have you misdirected student attention?\n\n\n\nthings that might come up for students: - sources of distraction - “boredom” - content too easy or too hard - focusing on other events in life\nthings that might come up for teachers: - tangents, drifting away from learning goals - (fear of) loss of credibility by students"
+  },
+  {
+    "objectID": "How-We-Think.html#siege-of-breda",
+    "href": "How-We-Think.html#siege-of-breda",
+    "title": "How We Think",
+    "section": "Siege of Breda",
+    "text": "Siege of Breda\nThe siege of Breda of 1624–25 occurred during the Eighty Years’ War. The siege resulted in Breda, a Dutch fortified city, falling into the control of the Army of Flanders.\nFollowing the orders of Ambrogio Spinola, Philip IV’s army laid siege to Breda in August 1624. The siege was contrary to the wishes of Philip IV’s government because of the already excessive burdens of the concurrent Eighty and Thirty Years’ wars. The strategically located city was heavily fortified and strongly defended by a large and well prepared garrison of 7,000 men, that the Dutch were confident would hold out long enough to wear down besiegers while awaiting a relief force to disrupt the siege.\n.cite[Source: Wikipedia]\n\n\nThe Siege of Breda was a dramatic event in Spanish history. It occured in the 17th century as a part of the Eighty years war. The Spanish Army, under the commander Ambrogio Spinola, representing King Philip V of Spain laid siege to the city in August at a time when sieges were thought to no longer be effect tools in a military campaign. The city of Breda was well-defended and were confident they would win."
+  },
+  {
+    "objectID": "How-We-Think.html#siege-of-breda-cont.",
+    "href": "How-We-Think.html#siege-of-breda-cont.",
+    "title": "How We Think",
+    "section": "Siege of Breda, cont.",
+    "text": "Siege of Breda, cont.\nYet despite the Spanish government’s opposition to major sieges in the Low Countries and the obstacles confronting any attack on such a strongly fortified and defended city, Spinola launched his Breda campaign, rapidly blocking the city’s defences and driving off a Dutch relief army under the leadership of Maurice of Nassau that had attempted to cut off the Spanish army’s access to supplies.\nThe siege of Breda is considered Spinola’s greatest success and one of Spain’s last major victories in the Eighty Years’ War. The siege was part of a plan to isolate the Republic from its hinterland, and co-ordinated with Olivare’s naval war spearheaded by the Dunkirkers, to economically choke the Dutch Republic. Although political infighting hindered Spinola’s freedom of movement, Spain’s efforts in the Netherlands continued thereafter.\n\nbackground-image: url(figs/velasquez.jpeg) background-position: center; background-repeat: no-repeat; background-size: contain;\n\nbackground-color: #000000\n\n##The Siege of Breda\n\nWhere is Breda? Netherlands\nWhich two wars were going on at this time? Eighty Years War and Thirty Years War.\nWho was the King of Spain in this era? Philip IV.\nWhat is the name of the painting? The Surrender of Breda.\nWhy was the Siege of Breda important? Restored the pride and reputation of the spanish army.\n\n\nOnce Spinola laid siege to the city, two relief efforts were made, first by the Dutch, then by the British. In the end, the city capitulated to Spinola in an event memorialized in a famous painting.\n\nThe reason why the Siege of Breda is important is that is restored the pride and reputation of the Spanish Army."
+  },
+  {
+    "objectID": "How-We-Think.html#curating-attention-1",
+    "href": "How-We-Think.html#curating-attention-1",
+    "title": "How We Think",
+    "section": "Curating Attention",
+    "text": "Curating Attention\nSome tips:\n\nVisuals tend to override audio.\nWhat you omit is as important as what you include.\nPick 1-3 take-homes and check that everything students see/hear ties back to them.\nDid you read this slide or listen to it being read?"
+  },
+  {
+    "objectID": "syllabus.html",
+    "href": "syllabus.html",
     "title": "Syllabus",
-    "section": "Course Info",
-    "text": "Course Info\nInstructor: Andrew Bray\nGSI: Noor Hanafi\nLocation: 340 Evans (graduate students) and 330 Evans (undergraduate students)\nTime: 2 - 4 pm Mondays, excluding holidays"
+    "section": "",
+    "text": "Instructor: Andrew Bray\nGSI: Noor Hanafi\nLocation: 340 Evans (graduate students) and 330 Evans (undergraduate students)\nTime: 2 - 4 pm Mondays, excluding holidays"
   },
   {
     "objectID": "syllabus.html#course-materials-and-assessments",
@@ -68,5 +600,187 @@
     "title": "Syllabus",
     "section": "Policies",
     "text": "Policies\n\nScheduling Conflicts\nThis course is held in-person and we expect that you’ll be present each week during class. While the campus is under COVID restrictions, class will be held on Zoom.\n\n\nMissing class and assignments\nIf you are feeling unwell, please stay home. Your health and that of the community come first. Materials for all of the course sessions will appear on the course website. Part of the weekly assignments will bear on what is discussed in class, so do your best given your absence from that discussion. If continued absence might endanger passing the class, the instructor will be in touch to discuss options.\n\n\nAccomodations for students with disabilities\nSTAT 375 is a course that is designed to allow all students to succeed. If you have Letters of Accommodations from the Disabled Students’ Program or another authorized office, please share them with your instructor as soon as possible, and we will work out the necessary arrangements."
+  },
+  {
+    "objectID": "think-before-you-compute/Think-Before-You-Compute.html#agenda",
+    "href": "think-before-you-compute/Think-Before-You-Compute.html#agenda",
+    "title": "Time Spent Outside and Inside the Classroom",
+    "section": "Agenda",
+    "text": "Agenda\n\nTime outside of the classroom\n\nDiscussion: the class forum\n\nTime in the classroom: Think before you compute\n\nThe curse of small curiosities\nLesson plan case study: student evals\nDebrief"
+  },
+  {
+    "objectID": "think-before-you-compute/Think-Before-You-Compute.html#the-power-of-patience",
+    "href": "think-before-you-compute/Think-Before-You-Compute.html#the-power-of-patience",
+    "title": "Time Spent Outside and Inside the Classroom",
+    "section": "The Power of Patience",
+    "text": "The Power of Patience\nTeaching students the value of deceleration and immersive attention\n\n\nChanging the pace of the exchange would have changed the form and content of the exchange. This particular painting simply would not exist. This painting is formed out of delay, not in spite of it."
+  },
+  {
+    "objectID": "think-before-you-compute/Think-Before-You-Compute.html#discussion-question",
+    "href": "think-before-you-compute/Think-Before-You-Compute.html#discussion-question",
+    "title": "Time Spent Outside and Inside the Classroom",
+    "section": "Discussion Question",
+    "text": "Discussion Question\n\nWhat would your class look like without Piazza / Ed / bCourses / email? Would would students gain? What would they lose?\n\n\n\n\n05:00"
+  },
+  {
+    "objectID": "think-before-you-compute/Think-Before-You-Compute.html#what-should-students-be-doing",
+    "href": "think-before-you-compute/Think-Before-You-Compute.html#what-should-students-be-doing",
+    "title": "Time Spent Outside and Inside the Classroom",
+    "section": "What should students be doing?",
+    "text": "What should students be doing?\n\n\nsource: https://www.uakron.edu/cba/student-resources/cba-computer-labs/"
+  },
+  {
+    "objectID": "think-before-you-compute/Think-Before-You-Compute.html#should-they-be",
+    "href": "think-before-you-compute/Think-Before-You-Compute.html#should-they-be",
+    "title": "Time Spent Outside and Inside the Classroom",
+    "section": "Should they be:",
+    "text": "Should they be:\n\nworking solo, in groups?\nreading / learning?\nanswering questions?\n\nquestions about tools? context? concepts?"
+  },
+  {
+    "objectID": "think-before-you-compute/Think-Before-You-Compute.html#think-before-you-compute",
+    "href": "think-before-you-compute/Think-Before-You-Compute.html#think-before-you-compute",
+    "title": "Time Spent Outside and Inside the Classroom",
+    "section": "Think before you compute",
+    "text": "Think before you compute\nPremise: when put in a computing environment with data, certain processes falter:\n\nIf they have an uncertain background, students flail\n“hacking” mentality can take over\nTunnel vision"
+  },
+  {
+    "objectID": "think-before-you-compute/Think-Before-You-Compute.html#think-before-you-compute-1",
+    "href": "think-before-you-compute/Think-Before-You-Compute.html#think-before-you-compute-1",
+    "title": "Time Spent Outside and Inside the Classroom",
+    "section": "Think before you compute",
+    "text": "Think before you compute\n\n\nPart I\n\nNo computers\nThink-pair-share\nUnderstand questions and data collection\nPrepare expectations around data structure\n\n\nPart II\n\nComputers + Data\nVerify data structure\n\nMake plots\nConduct analysis\n\nSome think-pair-share\nTie back to part I"
+  },
+  {
+    "objectID": "think-before-you-compute/Think-Before-You-Compute.html#getting-started",
+    "href": "think-before-you-compute/Think-Before-You-Compute.html#getting-started",
+    "title": "Time Spent Outside and Inside the Classroom",
+    "section": "Getting Started",
+    "text": "Getting Started\n\nPlease form pairs or trios\nMove around seats as needed\nIntroduce yourself to anyone you don’t know"
+  },
+  {
+    "objectID": "think-before-you-compute/Think-Before-You-Compute.html#work-flow-for-today",
+    "href": "think-before-you-compute/Think-Before-You-Compute.html#work-flow-for-today",
+    "title": "Time Spent Outside and Inside the Classroom",
+    "section": "Work flow for today",
+    "text": "Work flow for today\nWe’ll work through a scientific article page by page. For each few pages, I’ll post a few questions here and you will…\n\nwork silently by yourself on the questions, writing notes on the article,\ndiscuss your answers as a group,\nshare your answers if I call on you after most groups are done.\n\nThen we’ll repeat this cycle to work through all/most of the questions for the first half of the lab."
+  },
+  {
+    "objectID": "think-before-you-compute/Think-Before-You-Compute.html#abstract",
+    "href": "think-before-you-compute/Think-Before-You-Compute.html#abstract",
+    "title": "Time Spent Outside and Inside the Classroom",
+    "section": "Abstract",
+    "text": "Abstract\n\nWhich finding strikes you as most important? Why?\nBased on the results summarized here, what do you believe was the overarching research question that the scientists were wondering about when they devised this study?\n\n\n\n\n03:00"
+  },
+  {
+    "objectID": "think-before-you-compute/Think-Before-You-Compute.html#background",
+    "href": "think-before-you-compute/Think-Before-You-Compute.html#background",
+    "title": "Time Spent Outside and Inside the Classroom",
+    "section": "Background",
+    "text": "Background\n\nWhy is a student’s answer to “How effective was the instructor?” not always helpful in understanding how effective the instructor was?\nWhat is the general statement of the null hypothesis that is applied to every analysis in this paper?\nWhat do the results of this study indicate about the relative impact of the teaching effectiveness and perceived gender on SET?\n\n\n\n\n03:00"
+  },
+  {
+    "objectID": "think-before-you-compute/Think-Before-You-Compute.html#data",
+    "href": "think-before-you-compute/Think-Before-You-Compute.html#data",
+    "title": "Time Spent Outside and Inside the Classroom",
+    "section": "Data",
+    "text": "Data\n\nBased on the description in the paper, sketch/speculate what the US experimental data frame might look like. Be sure to note the unit of observation, the number of rows and columns, that names of the variables, their data type, and the values they can take.\n\n\n\n\n06:00"
+  },
+  {
+    "objectID": "think-before-you-compute/Think-Before-You-Compute.html#methods",
+    "href": "think-before-you-compute/Think-Before-You-Compute.html#methods",
+    "title": "Time Spent Outside and Inside the Classroom",
+    "section": "Methods",
+    "text": "Methods\n\nSketch/speculate what a plot could look like of the relationship between the Prompt SET scores and reported instructor gender. This should be a plot of the full data set and should be consistent with the statistics should in table 8. Repeat the exercise for the Responsive SET scores and reported instructor gender.\n\n\n\n\n05:00"
+  },
+  {
+    "objectID": "think-before-you-compute/Think-Before-You-Compute.html#getting-started-1",
+    "href": "think-before-you-compute/Think-Before-You-Compute.html#getting-started-1",
+    "title": "Time Spent Outside and Inside the Classroom",
+    "section": "Getting Started",
+    "text": "Getting Started\n\nPlease remain in the pairs/trios from Part I.\nHave the person with the least experience computing with data open their laptop; the others should keep their laptops closed."
+  },
+  {
+    "objectID": "think-before-you-compute/Think-Before-You-Compute.html#section",
+    "href": "think-before-you-compute/Think-Before-You-Compute.html#section",
+    "title": "Time Spent Outside and Inside the Classroom",
+    "section": "",
+    "text": "The authors of this manuscript ensured that their analysis is fully reproducible by marking their manuscript, data, and code easily available at https://github.com/kellieotto/SET-and-Gender-Bias. You can load the data from the US experiment with: https://bit.ly/3vPsnFL\n\n\n\n\nWhat is the unit of observation in the data frame? What are the dimensions of the data frame? How many students from each section filled out evaluations (at least partially)?\n\n\n\n\n06:00"
+  },
+  {
+    "objectID": "think-before-you-compute/Think-Before-You-Compute.html#section-1",
+    "href": "think-before-you-compute/Think-Before-You-Compute.html#section-1",
+    "title": "Time Spent Outside and Inside the Classroom",
+    "section": "",
+    "text": "Use the plots that you drew in question 7 as inspiration for constructing two plots of the actual data: the relationship between Prompt SET and reported TA gender, and the relationship between Responsive SET and reported TA gender. Describe each pair of plots: how does the rating for each differ based on the reported instructor gender?\n\n\n\n\n05:00"
+  },
+  {
+    "objectID": "think-before-you-compute/Think-Before-You-Compute.html#section-2",
+    "href": "think-before-you-compute/Think-Before-You-Compute.html#section-2",
+    "title": "Time Spent Outside and Inside the Classroom",
+    "section": "",
+    "text": "Conclusion: Do you find that the arguments in this section of the manuscript are consistent with the results of their data analysis? Do you find that they’re consistent with your own experience with evaluating instructors?\n\n\n\n\n03:00"
+  },
+  {
+    "objectID": "think-before-you-compute/Think-Before-You-Compute.html#debrief",
+    "href": "think-before-you-compute/Think-Before-You-Compute.html#debrief",
+    "title": "Time Spent Outside and Inside the Classroom",
+    "section": "Debrief",
+    "text": "Debrief\nWhat worked? What didn’t?\n\n\nPart I\n\nNo computers\nThink-pair-share\nUnderstand questions and data collection\nPrepare expectations around data structure\n\n\nPart II\n\nComputers + Data\nVerify data structure\n\nMake plots\nConduct analysis\n\nSome think-pair-share\nTie back to part I"
+  },
+  {
+    "objectID": "Teaching-Obs-Discussion.html#agenda",
+    "href": "Teaching-Obs-Discussion.html#agenda",
+    "title": "Teaching Observations Discussion",
+    "section": "Agenda",
+    "text": "Agenda\n\nReflections from Teaching\nTeaching Observation Debrief"
+  },
+  {
+    "objectID": "Teaching-Obs-Discussion.html#reflections-from-teaching",
+    "href": "Teaching-Obs-Discussion.html#reflections-from-teaching",
+    "title": "Teaching Observations Discussion",
+    "section": "Reflections from Teaching",
+    "text": "Reflections from Teaching\nIn your groups take turns sharing:\n\nOne thing that went well\nOne thing that went poorly\nOne thing that you learned\n\n\n\n\n10:00"
+  },
+  {
+    "objectID": "Teaching-Obs-Discussion.html#goals",
+    "href": "Teaching-Obs-Discussion.html#goals",
+    "title": "Teaching Observations Debrief",
+    "section": "Goals",
+    "text": "Goals\n\nProvide feedback from observed class\nVenue for discussion about teaching strategies"
+  },
+  {
+    "objectID": "Teaching-Obs-Discussion.html#format",
+    "href": "Teaching-Obs-Discussion.html#format",
+    "title": "Teaching Observations Debrief",
+    "section": "Format",
+    "text": "Format\n\n\nSpend 10 minutes discussing instructor 1’s class session.\nSpend 10 minutes discussing instructor 2’s class session.\n\n\nPerson with a longer first name will be instructor 1."
+  },
+  {
+    "objectID": "Teaching-Obs-Discussion.html#debrief-instructor-1",
+    "href": "Teaching-Obs-Discussion.html#debrief-instructor-1",
+    "title": "Teaching Observations Debrief",
+    "section": "Debrief Instructor 1",
+    "text": "Debrief Instructor 1\n\n\nInstructor 1\n\nWhat was your impression of the class?\nWhat were the strengths?\nWhere are you seeking suggestions for improvement?\n\nObserver\n\nWhat went well?\nConstructive but gentle suggestions. “I noticed that … I wonder if…”\nAvoid bland general feedback. Focus on specific and actionable.\nShare observation form\n\nDiscuss: Instructor takes notes on form\n\n\n\n\n\n10:00"
+  },
+  {
+    "objectID": "Teaching-Obs-Discussion.html#debrief-instructor-2",
+    "href": "Teaching-Obs-Discussion.html#debrief-instructor-2",
+    "title": "Teaching Observations Debrief",
+    "section": "Debrief Instructor 2",
+    "text": "Debrief Instructor 2\n\n\nInstructor 2\n\nWhat was your impression of the class?\nWhat were the strengths?\nWhere are you seeking suggestions for improvement?\n\nObserver\n\nWhat went well?\nConstructive but gentle suggestions. “I noticed that … I wonder if…”\nAvoid bland general feedback. Focus on specific and actionable.\nShare observation form\n\nDiscuss: Instructor takes notes on form\n\n\n\n\n\n10:00"
+  },
+  {
+    "objectID": "Teaching-Obs-Discussion.html#large-group-discussion-questions",
+    "href": "Teaching-Obs-Discussion.html#large-group-discussion-questions",
+    "title": "Teaching Observations Debrief",
+    "section": "Large group discussion questions",
+    "text": "Large group discussion questions\n\n\nAs the teacher, what was the most useful part of this process for you?\nAs the observer, what would you like to improve for next time?"
+  },
+  {
+    "objectID": "Teaching-Obs-Discussion.html#last-step",
+    "href": "Teaching-Obs-Discussion.html#last-step",
+    "title": "Teaching Observations Debrief",
+    "section": "Last step",
+    "text": "Last step\nTake your observation form with notes and type up reflection as part of next assignment to be posted to bCourses."
   }
 ]

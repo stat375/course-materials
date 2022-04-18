@@ -1,0 +1,55 @@
+---
+title: "Teaching Observations"
+subtitle: "STAT 375 UC Berkeley"
+logo: "../assets/images/stat-375-hex.png"
+format: 
+  revealjs:
+    theme: "../assets/css/slides.scss"
+    multiplex: true
+    transition: fade
+    slide-number: true
+    incremental: true 
+editor: visual
+execute:
+  freeze: auto
+---
+
+## While you're waiting
+
+Please sit in pairs with someone who is teaching as similar a class to yours as possible.
+
+## Agenda
+
+1.  The Observation Cycle:
+    -   Guest: Elisa Stone, Director, CalTeach
+2.  Practice: Observing a lesson
+
+# The Observation Cycle
+
+# Practice: Observing a Lesson
+
+## Observing a Lesson
+
+I will give a 20 minute lesson. You will have dual roles: **student** and **observer**.
+
+### As an observer
+
+-   Please take *objective* notes about what happens in during the lesson: what I do, what I say, and how students in the class respond.
+-   Refrain from making judgements.
+-   Periodically note the time at which various elements occur.
+
+## Peer Observations {.smaller}
+
+1.  Meet your partner and decide on times when each of you will observe one anothers' class.
+
+2.  Share which element of teaching you'd each like your observer to focus on (e.g. timing, clear boardwork, students engagement)
+
+3.  Observe one another and take notes guided by the observation form.
+
+4.  Debrief your observations on 4/4 in class.
+
+. . .
+
+::: poll
+Please do 1-2 in pairs and both partners enter your information in the google form: <https://forms.gle/FWWNLFpnr6ciyE8B9>
+:::
