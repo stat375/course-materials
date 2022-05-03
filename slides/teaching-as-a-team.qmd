@@ -162,7 +162,10 @@ What is their role?
 
 GSI duties identified by faculty at Pitt:
 
-![](images/TA-duties.png)
+
+```{r out.width=700, echo = FALSE, fig.align='center'}
+knitr::include_graphics("../images/TA-duties.png")
+```
 
 ## The Role of a GSI: The Instructor Perspective
 

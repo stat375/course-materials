@@ -42,8 +42,9 @@ countdown::countdown(minutes = 10, bottom = 0)
 
 ## What should students be doing?
 
-![](images/ComputerLab2020.jpeg)
-
+```{r out.width=700, echo = FALSE, fig.align='center'}
+knitr::include_graphics("../images/ComputerLab2020.jpeg")
+```
 ::: footer
 source: https://www.uakron.edu/cba/student-resources/cba-computer-labs/
 :::

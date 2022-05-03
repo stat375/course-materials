@@ -205,7 +205,7 @@ Think about the last class session you taught.
 ## Example
 
 ```{r echo = FALSE, out.width="100%"}
-knitr::include_graphics("images/post-its.png")
+knitr::include_graphics("../images/post-its.png")
 ```
 
 ## Breaking it down
@@ -254,11 +254,11 @@ countdown::countdown(minutes = 5, bottom = 0)
 ## Planning with 5E Learning Cycle Model {.smaller}
 
 ```{r echo = FALSE, out.width="70%"}
-knitr::include_graphics("images/e5-prep.png")
+knitr::include_graphics("../images/e5-prep.png")
 ```
 
 ```{r echo = FALSE, out.width="50%"}
-knitr::include_graphics("images/e5-form.png")
+knitr::include_graphics("../images/e5-form.png")
 ```
 
 ## Planning with 5E
@@ -288,25 +288,25 @@ countdown::countdown(minutes = 30, bottom = 0)
 ## Lesson Plan Examples from Cal
 
 ```{r out.width=600, out.height = 600, echo = FALSE, fig.align='center'}
-knitr::include_graphics("images/lp-1.png")
+knitr::include_graphics("../images/lp-1.png")
 ```
 
 ## Lesson Plan Examples from Cal
 
 ```{r out.width=600, out.height = 600, echo = FALSE, fig.align='center'}
-knitr::include_graphics("images/lp-2_Page_1.png")
+knitr::include_graphics("../images/lp-2_Page_1.png")
 ```
 
 ## Lesson Plan Examples from Cal
 
 ```{r out.width=600, out.height = 600, echo = FALSE, fig.align='center'}
-knitr::include_graphics("images/lp-3.png")
+knitr::include_graphics("../images/lp-3.png")
 ```
 
 ## Lesson Plan Examples from Cal
 
 ```{r out.width=600, out.height = 600, echo = FALSE, fig.align='center'}
-knitr::include_graphics("images/lp-4_Page_1.png")
+knitr::include_graphics("../images/lp-4_Page_1.png")
 ```
 
 ## Strategies inspired by the 5E model

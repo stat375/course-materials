@@ -70,7 +70,7 @@ Foster **curiosity** with careful questions.
 ## Model of Thinking
 
 ```{r}
-knitr::include_graphics("images/model-of-thinking.jpeg")
+knitr::include_graphics("../images/model-of-thinking.jpeg")
 ```
 
 ::: footer
@@ -201,7 +201,7 @@ Felienne Hermans is a scientist working at Leiden University as an associate pro
 ## Model of Thinking
 
 ```{r}
-knitr::include_graphics("images/model-of-thinking.jpeg")
+knitr::include_graphics("../images/model-of-thinking.jpeg")
 ```
 
 ::: footer
@@ -231,7 +231,7 @@ countdown::countdown(minutes = 7, bottom = 0, font_size = "2em")
 ## Example from the reading
 
 ```{r}
-knitr::include_graphics("images/himalayan-inns.png")
+knitr::include_graphics("../images/himalayan-inns.png")
 ```
 
 ```{r}
@@ -252,7 +252,7 @@ Follow up questions:
 ::: columns
 ::: {.column width="50%"}
 ```{r}
-knitr::include_graphics("images/model-of-thinking.jpeg")
+knitr::include_graphics("../images/model-of-thinking.jpeg")
 ```
 :::
 

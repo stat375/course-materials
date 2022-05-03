@@ -1524,5 +1524,75 @@
     "title": "Lesson Planning",
     "section": "Class Session",
     "text": "Class Session\nThe slides used in the class session are linked below."
+  },
+  {
+    "objectID": "slides/think-before-you-compute.html#agenda",
+    "href": "slides/think-before-you-compute.html#agenda",
+    "title": "Think Before You Compute",
+    "section": "Agenda",
+    "text": "Agenda\n\nReflections from Teaching\nThink before you compute\n\nThe curse of small curiosities\nLesson plan case study: student evals\nDebrief"
+  },
+  {
+    "objectID": "slides/think-before-you-compute.html#reflections-from-teaching",
+    "href": "slides/think-before-you-compute.html#reflections-from-teaching",
+    "title": "Think Before You Compute",
+    "section": "Reflections from Teaching",
+    "text": "Reflections from Teaching\nIn your groups take turns sharing:\n\nOne thing that went well\nOne thing that went poorly\nOne thing that you learned\n\n\n\n\n10:00"
+  },
+  {
+    "objectID": "slides/think-before-you-compute.html#what-should-students-be-doing",
+    "href": "slides/think-before-you-compute.html#what-should-students-be-doing",
+    "title": "Think Before You Compute",
+    "section": "What should students be doing?",
+    "text": "What should students be doing?\n\n\nsource: https://www.uakron.edu/cba/student-resources/cba-computer-labs/"
+  },
+  {
+    "objectID": "slides/think-before-you-compute.html#should-they-be",
+    "href": "slides/think-before-you-compute.html#should-they-be",
+    "title": "Think Before You Compute",
+    "section": "Should they be:",
+    "text": "Should they be:\n\nworking solo, in groups?\nreading / learning?\nanswering questions?\n\nquestions about tools? context? concepts?"
+  },
+  {
+    "objectID": "slides/think-before-you-compute.html#think-before-you-compute-1",
+    "href": "slides/think-before-you-compute.html#think-before-you-compute-1",
+    "title": "Think Before You Compute",
+    "section": "Think before you compute",
+    "text": "Think before you compute\nPremise: when put in a computing environment with data, certain processes falter:\n\nIf they have an uncertain background, students flail\n“hacking” mentality can take over\nTunnel vision"
+  },
+  {
+    "objectID": "slides/think-before-you-compute.html#think-before-you-compute-2",
+    "href": "slides/think-before-you-compute.html#think-before-you-compute-2",
+    "title": "Think Before You Compute",
+    "section": "Think before you compute",
+    "text": "Think before you compute\n\n\nPart I\n\nNo computers\nThink-pair-share\nUnderstand questions and data collection\nPrepare expectations around data structure\n\n\nPart II\n\nComputers + Data\nVerify data structure\n\nMake plots\nConduct analysis\n\nSome think-pair-share\nTie back to part I"
+  },
+  {
+    "objectID": "slides/think-before-you-compute.html#part-1",
+    "href": "slides/think-before-you-compute.html#part-1",
+    "title": "Think Before You Compute",
+    "section": "Part 1",
+    "text": "Part 1\nPlease put all laptops away. You won’t need them today."
+  },
+  {
+    "objectID": "slides/think-before-you-compute.html#getting-started",
+    "href": "slides/think-before-you-compute.html#getting-started",
+    "title": "Think Before You Compute",
+    "section": "Getting Started",
+    "text": "Getting Started\n\nPlease form pairs or trios\nMove around seats as needed\nIntroduce yourself to anyone you don’t know"
+  },
+  {
+    "objectID": "slides/think-before-you-compute.html#work-flow-for-today",
+    "href": "slides/think-before-you-compute.html#work-flow-for-today",
+    "title": "Think Before You Compute",
+    "section": "Work flow for today",
+    "text": "Work flow for today\nWe’ll work through a scientific article page by page. For each few pages, I’ll post a few questions here and you will…\n\nwork silently by yourself on the questions, writing notes on the article,\ndiscuss your answers as a group,\nshare your answers if I call on you after most groups are done.\n\nThen we’ll repeat this cycle to work through all/most of the questions for the first half of the lab."
+  },
+  {
+    "objectID": "slides/think-before-you-compute.html#debrief",
+    "href": "slides/think-before-you-compute.html#debrief",
+    "title": "Think Before You Compute",
+    "section": "Debrief",
+    "text": "Debrief\nWhat worked? What didn’t?\n\n\nPart I\n\nNo computers\nThink-pair-share\nUnderstand questions and data collection\nPrepare expectations around data structure\n\n\nPart II\n\nComputers + Data\nVerify data structure\n\nMake plots\nConduct analysis\n\nSome think-pair-share\nTie back to part I"
   }
 ]
