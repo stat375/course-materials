@@ -1,0 +1,31 @@
+---
+title: "Lesson Planning"
+editor: visual
+---
+
+## Assignment
+
+**Reading for next class**\
+Please read the following and post a comment on Ed.\
+- Bybee: the 5 Es 176 - 184\
+Some questions that you're welcome to use to prompt your comment:\
+1. What class or lesson that you've taken does the best job of fitting into this framework? Did you find the lesson effective? How much of the effectiveness do you think was due to the planning framework / lesson structure?\
+2. What do you think Felienne Hermans (the "cat loves cake" speaker) would think of this framework? Would you agree with her?\
+3. Does this framework seem realistic to implement in teaching a lesson for your section? Where does it match well and where would it be a stretch?\
+If you see that many students have already commented, please read through their comments and alternatively respond to their post.
+
+\
+**File upload**\
+Please upload to bCourses the lesson plan that you used when you taught your last course. This could be a formal lesson plan provided by the instructor, a formal plan that you devised, a slide deck, or less formal sketches of notes that you used as prompts during the lecture. Please do this in the bCourses assignment labeled "Lesson Plan Upload."
+
+## Class Session
+
+The slides used in the class session are linked below.
+
+<div>
+
+```{=html}
+<iframe class="slide-deck" src=""></iframe>
+```
+
+</div>
