@@ -16,7 +16,13 @@ execute:
 
 ## Agenda
 
-1.Dan Ariely: The Truth About Dishonesty - Why we cheat 2.Case Studies from the Class
+1.  Dan Ariely: The Truth About Dishonesty
+
+    -   Why we cheat
+
+2. Guest Speaker from the Center for Student Conduct  
+
+3. Case Studies from the Class
 
 ## The Truth About Dishonesty
 
@@ -40,11 +46,17 @@ Reference: Dan Ariely
 
 ## Discussion
 
--   For examples of cheating that may occur in your classes, what are ways in which these "fudge" factors would drive cheating?
+>
+Imagine you learn that one of your students has cheated. What responses do you think they would give if you asked why they cheated? Which fudge factors are behind those reasons (if any)?
+
+# Guest Speaker from the Center for Student Conduct 
+
 
 ## Case Studies from the Class
 
+
 ::: notes
+- Can populate with examples from the assignment 
 -   Many u/GSIs expressed hesitation over reporting cheaters. Further discussion into what drives this would be interesting.
 -   Further discussion into u/GSIs' perspectives on the spectrum of cheating would be interesting. Some acts are more egregious than others; how do we think about this?
 :::
