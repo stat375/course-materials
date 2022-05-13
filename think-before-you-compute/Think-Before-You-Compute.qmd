@@ -51,9 +51,13 @@ countdown::countdown(minutes = 5, font_size = "2em")
 
 ## What should students be doing?
 
+<<<<<<< HEAD
 ```{r}
 knitr::include_graphics("images/ComputerLab2020.jpeg")
 ```
+=======
+![](images/ComputerLab2020.jpeg)
+>>>>>>> ad642aa37c9794438f2e6684b313331c48f2b33c
 
 ::: footer
 source: https://www.uakron.edu/cba/student-resources/cba-computer-labs/
