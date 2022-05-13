@@ -11,6 +11,69 @@
     div.column{display: inline-block; vertical-align: top; width: 50%;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
     ul.task-list{list-style: none;}
+    pre > code.sourceCode { white-space: pre; position: relative; }
+    pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+    pre > code.sourceCode > span:empty { height: 1.2em; }
+    .sourceCode { overflow: visible; }
+    code.sourceCode > span { color: inherit; text-decoration: inherit; }
+    div.sourceCode { margin: 1em 0; }
+    pre.sourceCode { margin: 0; }
+    @media screen {
+    div.sourceCode { overflow: auto; }
+    }
+    @media print {
+    pre > code.sourceCode { white-space: pre-wrap; }
+    pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+    }
+    pre.numberSource code
+      { counter-reset: source-line 0; }
+    pre.numberSource code > span
+      { position: relative; left: -4em; counter-increment: source-line; }
+    pre.numberSource code > span > a:first-child::before
+      { content: counter(source-line);
+        position: relative; left: -1em; text-align: right; vertical-align: baseline;
+        border: none; display: inline-block;
+        -webkit-touch-callout: none; -webkit-user-select: none;
+        -khtml-user-select: none; -moz-user-select: none;
+        -ms-user-select: none; user-select: none;
+        padding: 0 4px; width: 4em;
+        color: #aaaaaa;
+      }
+    pre.numberSource { margin-left: 3em; border-left: 1px solid #aaaaaa;  padding-left: 4px; }
+    div.sourceCode
+      {   }
+    @media screen {
+    pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+    }
+    code span.al { color: #ff0000; font-weight: bold; } /* Alert */
+    code span.an { color: #60a0b0; font-weight: bold; font-style: italic; } /* Annotation */
+    code span.at { color: #7d9029; } /* Attribute */
+    code span.bn { color: #40a070; } /* BaseN */
+    code span.bu { } /* BuiltIn */
+    code span.cf { color: #007020; font-weight: bold; } /* ControlFlow */
+    code span.ch { color: #4070a0; } /* Char */
+    code span.cn { color: #880000; } /* Constant */
+    code span.co { color: #60a0b0; font-style: italic; } /* Comment */
+    code span.cv { color: #60a0b0; font-weight: bold; font-style: italic; } /* CommentVar */
+    code span.do { color: #ba2121; font-style: italic; } /* Documentation */
+    code span.dt { color: #902000; } /* DataType */
+    code span.dv { color: #40a070; } /* DecVal */
+    code span.er { color: #ff0000; font-weight: bold; } /* Error */
+    code span.ex { } /* Extension */
+    code span.fl { color: #40a070; } /* Float */
+    code span.fu { color: #06287e; } /* Function */
+    code span.im { } /* Import */
+    code span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Information */
+    code span.kw { color: #007020; font-weight: bold; } /* Keyword */
+    code span.op { color: #666666; } /* Operator */
+    code span.ot { color: #007020; } /* Other */
+    code span.pp { color: #bc7a00; } /* Preprocessor */
+    code span.sc { color: #4070a0; } /* SpecialChar */
+    code span.ss { color: #bb6688; } /* SpecialString */
+    code span.st { color: #4070a0; } /* String */
+    code span.va { color: #19177c; } /* Variable */
+    code span.vs { color: #4070a0; } /* VerbatimString */
+    code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warning */
   </style>
 
   <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -89,12 +152,52 @@
     <ul id="quarto-sidebar-section-topics" class="collapse list-unstyled sidebar-section depth1 show">  
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./welcome-to-class/plan.html" class="sidebar-item-text sidebar-link">1. Welcome to Class</a>
+  <a href="./weeks/welcome-to-class-site.html" class="sidebar-item-text sidebar-link">Welcome to Class</a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./teaching-as-a-team/plan.html" class="sidebar-item-text sidebar-link">2. Teaching as a Team</a>
+  <a href="./weeks/teaching-as-a-team-site.html" class="sidebar-item-text sidebar-link">Teaching as a Team</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./weeks/how-we-think-site.html" class="sidebar-item-text sidebar-link">The Limits of Working Memory</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./weeks/creating-an-inclusive-classroom-site.html" class="sidebar-item-text sidebar-link">Creating an Inclusive Classroom</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./weeks/how-to-teach-without-lecturing-site.html" class="sidebar-item-text sidebar-link">How to Teach Without Lecturing</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./weeks/lesson-planning-site.html" class="sidebar-item-text sidebar-link">Lesson Planning</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./weeks/teaching-observations-site.html" class="sidebar-item-text sidebar-link">Teaching Observations</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./weeks/think-before-you-compute-site.html" class="sidebar-item-text sidebar-link">Think Before You Compute</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./weeks/assessments-site.html" class="sidebar-item-text sidebar-link">Assessments</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./weeks/academic-misconduct-site.html" class="sidebar-item-text sidebar-link">Academic Misconduct</a>
   </div>
 </li>
     </ul>
@@ -111,7 +214,12 @@
 </header>
 <p>The primary goal of this course is to help first-time GSI appointments become more confident, efficient, and effective teachers. It aims to build in students a curiosity to persistently question their practice: Why am I teaching this particular topic? What is the most important thing that my students learn? How do I know if my students have learned it? Why have I chosen to teach it in the this manner? Why are certain students engaged and succeeding and others not?</p>
 <p>There are three integral elements to this course. In person <strong>class meetings</strong> are the core of the experience, when you will encounter new ideas and discuss them in the context of your current teaching. Weekly <strong>assignments</strong> are an opportunity to reflect on the ideas discussed in class as well as readings. <strong>Teaching observations</strong> will occur twice during the semester and give you the opportunity to observe a different classroom environment than your own and receive feedback about your own teaching.</p>
-<p><img src="images/background-bikeshare.png" class="img-fluid" alt="A series of six, generic data visualizations: a scatterplot, a density plot, a contour plot, a line plot, a box plot, and another scatterplot." width="700"></p>
+<div class="cell">
+<div class="sourceCode" id="cb1"><pre class="sourceCode r cell-code code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a>knitr<span class="sc">::</span><span class="fu">include_graphics</span>(<span class="st">"images/stat375-overview-image.jpg"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output-display">
+<p><img src="images/stat375-overview-image.jpg" class="img-fluid"></p>
+</div>
+</div>
 
 
 </main> <!-- /main -->
