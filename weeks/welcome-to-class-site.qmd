@@ -1,0 +1,11 @@
+---
+title: "Welcome to Class"
+---
+
+There are no assignments prior to our first class meeting.
+
+## Class Session
+
+The slides used in the class session are linked below.
+
+🖥[Welcome to Class](../slides/welcome-slides.qmd)

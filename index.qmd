@@ -6,4 +6,9 @@ The primary goal of this course is to help first-time GSI appointments become mo
 
 There are three integral elements to this course. In person **class meetings** are the core of the experience, when you will encounter new ideas and discuss them in the context of your current teaching. Weekly **assignments** are an opportunity to reflect on the ideas discussed in class as well as readings. **Teaching observations** will occur twice during the semester and give you the opportunity to observe a different classroom environment than your own and receive feedback about your own teaching.
 
-![](images/background-bikeshare.png){fig-alt="A series of six, generic data visualizations: a scatterplot, a density plot, a contour plot, a line plot, a box plot, and another scatterplot." width="700"}
+
+```{r}
+#| echo: false
+knitr::include_graphics("images/stat375-overview-image.jpg")
+```
+

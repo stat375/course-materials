@@ -1,0 +1,98 @@
+---
+title: "Teaching Statistics and Data Science"
+subtitle: "STAT 375 UC Berkeley"
+logo: "../assets/images/stat-375-hex.png"
+format: 
+  revealjs:
+    theme: "../assets/css/slides.scss"
+    multiplex: true
+    transition: fade
+    slide-number: true
+    incremental: true 
+---
+
+## Agenda
+
+1.  Introductions
+
+2.  Course Structure
+
+3.  Community Standards
+
+4.  Asking Why
+
+
+## Meet your group
+
+-   In your groups, take turns introducing yourselves and sharing:
+    -   Your name and preferred pronouns
+    -   Your year and major
+    -   What class you are teaching
+    -   Memory of your best teacher and what made them so effective
+-   You have 7 minutes
+
+```{r}
+countdown::countdown(7, top = 0)
+```
+
+# Introductions
+
+## Course Structure
+
+View syllabus on Ed.
+
+## Community Standards
+
+In your groups, please agree upon:
+
+1.  Three adjectives that describe a class environment is **conducive** to everyone learning
+2.  Three adjectives that describe a class environment that is **not conducive** to everyone learning
+
+. . . 
+
+Then post them to the padlet:
+
+[<https://tinyurl.com/mrvpdpnp>]{style="font-size: 1.5em"}
+
+You have 8 minutes.
+
+```{r}
+countdown::countdown(8, top = 0)
+```
+
+# Course Goals
+
+> Train the habit of asking *why* you are teaching something one way or another.
+
+> Judge your teaching not by your knowledge of statistics / data science, but by your student's.
+
+# Critique of this class so far...
+
+## 
+
+What worked? What didn't? How can we change it?
+
+::: columns
+::: {.column width = "50%"} \### Meet your group - What was the goal? - How big should the groups be? - Which questions?
+
+### Introductions
+
+-   How personal should you be?
+:::
+
+::: {.column width = "50%"} \### Syllabus - What were your main takeaways? - How else could this information be presented?
+
+### Community Standards
+
+-   What was the feel of the group discussion?
+-   Was everyone participating? :::
+
+::::
+
+# Break until 3:15
+
+# GSI Panel
+
+### Isaac Schmidt
+
+### Chad Breece

@@ -1,0 +1,34 @@
+---
+title: "Creating and Inclusive Classroom"
+subtitle: "STAT 375 UC Berkeley"
+logo: "../assets/images/stat-375-hex.png"
+format: 
+  revealjs:
+    theme: "../assets/css/stat20.scss"
+    multiplex: true
+    transition: fade
+    slide-number: true
+    incremental: true 
+editor: visual
+execute:
+  freeze: auto
+---
+
+## Agenda
+
+1.  Reflections from teaching
+2.  Guest: Kristen Nelson, Dept. of Sociology
+
+# Reflections from teaching
+
+:::poll
+In your groups, take turns sharing:
+
+1.  One thing that went well
+2.  One thing that went poorly
+3.  One thing you learned
+:::
+
+```{r}
+countdown::countdown(minutes = 10, bottom = 0, font_size = "1em")
+```

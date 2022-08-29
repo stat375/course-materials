@@ -36,14 +36,31 @@ website:
         text: "Syllabus"
       - section: "Topics"
         contents:
-          - href: welcome-to-class/plan.qmd
-            text: "1. Welcome to Class"
-          - href: teaching-as-a-team/plan.qmd
-            text: "2. Teaching as a Team"
+          - href: weeks/welcome-to-class-site.qmd
+            text: "Welcome to Class"
+          - href: weeks/teaching-as-a-team-site.qmd
+            text: "Teaching as a Team"
+          # - href: weeks/how-we-think-site.qmd
+          #   text: "The Limits of Working Memory"
+          # - href: weeks/creating-an-inclusive-classroom-site.qmd
+          #   text: "Creating an Inclusive Classroom"
+          # - href: weeks/how-to-teach-without-lecturing-site.qmd
+          #   text: "How to Teach Without Lecturing"
+          # - href: weeks/lesson-planning-site.qmd
+          #   text: "Lesson Planning"
+          # - href: weeks/teaching-observations-site.qmd
+          #   text: "Teaching Observations"
+          # - href: weeks/think-before-you-compute-site.qmd
+          #   text: "Think Before You Compute"
+          # - href: weeks/assessments-site.qmd
+          #   text: "Assessments"
+          # - href: weeks/academic-misconduct-site.qmd
+          #   text: "Academic Misconduct"
+
 
 format:
   html:
-    theme: [cosmo, garrick-hex]
+    theme: [litera]
     mainfont: "Avenir"
     code-copy: true
     code-overflow: wrap
