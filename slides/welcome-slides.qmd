@@ -39,7 +39,11 @@ countdown::countdown(7, top = 0)
 
 ## Course Structure
 
-View syllabus on Ed.
+Syllabus available on course website:
+
+:::{style="text-align: center"}
+<>
+:::
 
 ## Community Standards
 
